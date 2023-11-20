@@ -1,0 +1,177 @@
+[{
+  "team": "Real Madrid",
+  "stadium": "Estadio Santiago Bernabéu",
+  "city": "Madrid",
+  "address": "Avenida De Concha Espina 1, 28036, Madrid",
+  "fundation": 1947,
+  "dimensions": "105m x 68m",
+  "capacity": 81044,
+  "latitude": 40.4530225,
+  "longitude": -3.6874056737588647
+},
+{
+  "team": "Barcelona",
+  "stadium": "Camp Nou",
+  "city": "Barcelona",
+  "address": "Carrer Aristides Maillol, 12, 08028, Barcelona",
+  "fundation": 1957,
+  "dimensions": "105m x 68m",
+  "capacity": 99354,
+  "latitude": 41.38089905,
+  "longitude": 2.122922500751749
+},
+{
+  "team": "Atlético De Madrid",
+  "stadium": "Estadio Wanda Metropolitano",
+  "city": "Madrid",
+  "address": "Av. De Luis Aragonés 4, Madrid",
+  "fundation": 1994,
+  "dimensions": "105m x 68m",
+  "capacity": 70000,
+  "latitude": 40.4337998,
+  "longitude": -3.600962
+},
+{
+  "team": "Valencia",
+  "stadium": "Estadio Mestalla",
+  "city": "Valencia",
+  "address": "Av. De Suecia S/N, 46010, Valencia",
+  "fundation": 1923,
+  "dimensions": "105m x 68m",
+  "capacity": 50000,
+  "latitude": 39.474491099999995,
+  "longitude": -0.35811839575328996
+},
+{
+  "team": "Sevilla",
+  "stadium": "Estadio Ramón Sánchez-Pizjuán",
+  "city": "Sevilla",
+  "address": "Calle Sevilla Fútbol Club S/N, 41005, Sevilla",
+  "fundation": 1958,
+  "dimensions": "105m x 68m",
+  "capacity": 43864,
+  "latitude": 37.3840876,
+  "longitude": -5.970630902457186
+},
+{
+  "team": "Athletic Bilbao",
+  "stadium": "Estadio San Mamés",
+  "city": "Bilbao",
+  "address": "Rafael Moreno Pitxitxi Kalea 1, Bilbao",
+  "fundation": 2013,
+  "dimensions": "105m x 68m",
+  "capacity": 53289,
+  "latitude": 43.26420400000001,
+  "longitude": -2.94939145292929
+},
+{
+  "team": "Real Sociedad",
+  "stadium": "Reale Arena",
+  "city": "San Sebastián",
+  "address": "Anoeta Pasalekua 1, San Sebastián",
+  "fundation": 1993,
+  "dimensions": "105m x 68m",
+  "capacity": 39313,
+  "latitude": 43.3012644,
+  "longitude": -1.9738106
+},
+{
+  "team": "Real Betis",
+  "stadium": "Estadio Benito Villamarín",
+  "city": "Sevilla",
+  "address": "Av. De Heliópolis S/N, 41012, Sevilla",
+  "fundation": 1929,
+  "dimensions": "105m x 68m",
+  "capacity": 60720,
+  "latitude": 37.356535449999996,
+  "longitude": -5.981756556248882
+},
+{
+  "team": "Espanyol",
+  "stadium": "RCDE Stadium",
+  "city": "Barcelona",
+  "address": "Av. Del Baix Llobregat 100, Cornellà De Llobregat",
+  "fundation": 2009,
+  "dimensions": "105m x 68m",
+  "capacity": 40500,
+  "latitude": 41.347806899999995,
+  "longitude": 2.074801953310624
+},
+{
+  "team": "Real Zaragoza",
+  "stadium": "Estadio La Romareda",
+  "city": "Zaragoza",
+  "address": "P.º De Isabel La Católica, 4, 50009, Zaragoza",
+  "fundation": 1957,
+  "dimensions": "105m x 68m",
+  "capacity": 33608,
+  "latitude": 41.63648875,
+  "longitude": -0.9018225813306358
+},
+{
+  "team": "Villarreal",
+  "stadium": "Estadio De La Cerámica",
+  "city": "Villarreal",
+  "address": "Carrer Blasco Ibáñez, 2, 12540, Villarreal",
+  "fundation": 1923,
+  "dimensions": "105m x 68m",
+  "capacity": 23000,
+  "latitude": 39.94420835,
+  "longitude": -0.10340461367963182
+},
+{
+  "team": "Real Valladolid",
+  "stadium": "Estadio José Zorrilla",
+  "city": "Valladolid",
+  "address": "Av. Del Mundial 82 S/N, Valladolid",
+  "fundation": 1982,
+  "dimensions": "105m x 68m",
+  "capacity": 27618,
+  "latitude": 41.6445801,
+  "longitude": -4.76125762814154
+},
+{
+  "team": "Celta De Vigo",
+  "stadium": "Estadio De Balaídos",
+  "city": "Vigo",
+  "address": "Avenida De Balaídos, 13. 36210, Vigo",
+  "fundation": 1928,
+  "dimensions": "105m x 68m",
+  "capacity": 29000,
+  "latitude": 42.2117805,
+  "longitude": -8.739714914064972
+},
+{
+  "team": "Málaga",
+  "stadium": "Estadio La Rosaleda",
+  "city": "Málaga",
+  "address": "P.º Martiricos, S/N, 29011, Málaga",
+  "fundation": 1941,
+  "dimensions": "105 x 68 metros",
+  "capacity": 30044,
+  "latitude": 36.7336247,
+  "longitude": -4.426535165860329
+},
+{
+  "team": "Getafe",
+  "stadium": "Coliseum Alfonso Pérez",
+  "city": "Getafe",
+  "address": "Av. Teresa De Calcuta, 28903, Getafe",
+  "fundation": 1998,
+  "dimensions": "105m x 68m",
+  "capacity": 16500,
+  "latitude": 40.325724699999995,
+  "longitude": -3.7149326452090587
+},
+{
+  "team": "Levante",
+  "stadium": "Estadio Ciudad De Valencia",
+  "city": "Valencia",
+  "address": "C. De San Vicente De Paul, 44, 46019, Valencia",
+  "fundation": 1969,
+  "dimensions": "105m x 68m",
+  "capacity": 26354,
+  "latitude": 39.49464905,
+  "longitude": -0.3638510397351134
+}
+]

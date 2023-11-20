@@ -1,0 +1,132 @@
+[{
+  "team": "Rapid Viena",
+  "stadium": "Allianz Stadion",
+  "city": "Viena",
+  "address": "Keißlergasse 6, Viena",
+  "fundation": 2016,
+  "dimensions": "105m x 68m",
+  "capacity": 28345,
+  "latitude": 48.19802745,
+  "longitude": 16.265151956043425
+},
+{
+  "team": "Austria Viena",
+  "stadium": "Generali Arena",
+  "city": "Viena",
+  "address": "Fischhofgasse 12, Viena",
+  "fundation": 1925,
+  "dimensions": "105m x 68m",
+  "capacity": 17656,
+  "latitude": 48.162372649999995,
+  "longitude": 16.388398043863276
+},
+{
+  "team": "Red Bull Salzburgo",
+  "stadium": "Red Bull Arena",
+  "city": "Salzburgo",
+  "address": "Stadionstraße 2/3, Salzburgo",
+  "fundation": 2003,
+  "dimensions": "105m x 68m",
+  "capacity": 31895,
+  "latitude": 47.816406150000006,
+  "longitude": 12.99824882791507
+},
+{
+  "team": "Wacker Innsbruck",
+  "stadium": "Tivoli Stadion Tirol",
+  "city": "Innsbruck",
+  "address": "Stadionstraße 1, Innsbruck",
+  "fundation": 2000,
+  "dimensions": "105m x 68m",
+  "capacity": 17400,
+  "latitude": 47.255878949999996,
+  "longitude": 11.412067950229543
+},
+{
+  "team": "First Vienna",
+  "stadium": "Stadion Hohe Warte",
+  "city": "Viena",
+  "address": "Klabundgasse 11, Viena",
+  "fundation": 1921,
+  "dimensions": "104m x 68m",
+  "capacity": 5500,
+  "latitude": 48.248755599999996,
+  "longitude": 16.359734528062404
+},
+{
+  "team": "Sturm Graz",
+  "stadium": "Stadion Graz-Liebenau",
+  "city": "Graz",
+  "address": "Stadionpl. 1, 8041, Graz",
+  "fundation": 1997,
+  "dimensions": "105m x 68m",
+  "capacity": 15350,
+  "latitude": 47.04640085,
+  "longitude": 15.455519942557164
+},
+{
+  "team": "TSV Hartberg",
+  "stadium": "Stadion Hartberg",
+  "city": "Hartberg",
+  "address": "Stadionstraße 21, Hartberg",
+  "fundation": 1946,
+  "dimensions": "105m x 68m",
+  "capacity": 5400,
+  "latitude": 47.2810655,
+  "longitude": 15.97785100609549
+},
+{
+  "team": "Wiener Sport-Club",
+  "stadium": "Sportclub-Platz",
+  "city": "Viena",
+  "address": "Alszeile 19. 1170, Viena",
+  "fundation": 1883,
+  "dimensions": "105m x 68m",
+  "capacity": 8600,
+  "latitude": 48.22600195,
+  "longitude": 16.31120344812894
+},
+{
+  "team": "Austria Klagenfurt",
+  "stadium": "Wörthersee Stadion",
+  "city": "Klagenfurt",
+  "address": "Südring 207, 9020 Klagenfurt",
+  "fundation": 2007,
+  "dimensions": "105m x 68m",
+  "capacity": 32000,
+  "latitude": 46.6089701,
+  "longitude": 14.279126564977275
+},
+{
+  "team": "Admira",
+  "stadium": "Bundesstadion Südstadt",
+  "city": "Maria Enzersdorf",
+  "address": "Viehofner Allee 70, Maria Enzersdorf",
+  "fundation": 1967,
+  "dimensions": "105m x 68m",
+  "capacity": 12000,
+  "latitude": 48.0975123,
+  "longitude": 16.31138684909667
+},
+{
+  "team": "Wolfsberger AC",
+  "stadium": "Lavanttal-Arena",
+  "city": "Wolfsberg",
+  "address": "Don-Bosco-Weg 1, 9400 Wolfsberg",
+  "fundation": 1984,
+  "dimensions": "105m x 68m",
+  "capacity": 7300,
+  "latitude": 46.82615915,
+  "longitude": 14.851089164236985
+},
+{
+  "team": "LASK Linz",
+  "stadium": "Raiffeisen Arena",
+  "city": "Linz",
+  "address": "Ziegeleistraße 76. 4020 Linz",
+  "fundation": 2021,
+  "dimensions": "105m x 68m",
+  "capacity": 19080,
+  "latitude": 48.2935677,
+  "longitude": 14.2765698145
+}]

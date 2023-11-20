@@ -1,0 +1,132 @@
+[{
+    "team": "Rangers",
+    "stadium": "Ibrox Stadium",
+    "city": "Glasgow",
+    "address": "150 Edmiston Dr. Glasgow G51 2XD",
+    "fundation": 1899,
+    "dimensions": "105m x 69m",
+    "capacity": 50987,
+    "latitude": 55.853226649999996,
+    "longitude": -4.309214640621265
+},
+{
+    "team": "Celtic",
+    "stadium": "Celtic Park",
+    "city": "Glasgow",
+    "address": "Janefield St, Glasgow G40 3RE",
+    "fundation": 1892,
+    "dimensions": "104m x 67m",
+    "capacity": 60411,
+    "latitude": 55.8497578,
+    "longitude": -4.205468869948476
+},
+{
+    "team": "Aberdeen",
+    "stadium": "Pittodrie Stadium",
+    "city": "Aberdeen",
+    "address": "Pittodrie Stadium, Pittodrie St, Aberdeen AB24 5QH",
+    "fundation": 1899,
+    "dimensions": "100m x 66m",
+    "capacity": 20866,
+    "latitude": 57.159276899999995,
+    "longitude": -2.0886286912922
+},
+{
+    "team": "Hibernian",
+    "stadium": "Easter Road",
+    "city": "Edimburgo",
+    "address": "12 Albion Pl, Edinburgh EH7 5QG",
+    "fundation": 1893,
+    "dimensions": "105m x 69m",
+    "capacity": 20421,
+    "latitude": 55.9616856,
+    "longitude": -3.1651677730061154
+},
+{
+    "team": "Heart Of Midlothian",
+    "stadium": "Tynecastle Park",
+    "city": "Edimburgo",
+    "address": "McLeod St, Edimburgo EH11 2NL",
+    "fundation": 1886,
+    "dimensions": "105m x 68m",
+    "capacity": 19852,
+    "latitude": 55.93901965,
+    "longitude": -3.2322708723891225
+},
+{
+    "team": "Motherwell",
+    "stadium": "Fir Park",
+    "city": "Motherwell",
+    "address": "Fir Park St, Motherwell ML1 2QN",
+    "fundation": 1895,
+    "dimensions": "104m x 67m",
+    "capacity": 13677,
+    "latitude": 55.7804229,
+    "longitude": -3.980255627911692
+},
+{ 
+    "team": "Dundee",
+    "stadium": "Dens Park",
+    "city": "Dundee",
+    "address": "Dens Park Stadium, Sandeman St, Dundee DD3 7JY",
+    "fundation": 1899,
+    "dimensions": "101m x 66m",
+    "capacity": 11775,
+    "latitude": 56.474605499999996,
+    "longitude": -2.9736261756304496
+},
+{
+    "team": "Dundee United",
+    "stadium": "Tannadice Park",
+    "city": "Dundee",
+    "address": "Tannadice St, Dundee DD3 7JW",
+    "fundation": 1883,
+    "dimensions": "104m x 67m",
+    "capacity": 14223,
+    "latitude": 56.47458035,
+    "longitude": -2.9690462572946066
+},
+{
+    "team": "Kilmarnock",
+    "stadium": "Rugby Park",
+    "city": "Kilmarnock",
+    "address": "11 Rugby Rd, Kilmarnock KA1 2DT",
+    "fundation": 1886,
+    "dimensions": "105m x 68m",
+    "capacity": 15003,
+    "latitude": 55.60410265,
+    "longitude": -4.5093774377759015
+},
+{
+    "team": "St. Mirren",
+    "stadium": "St. Mirren Park",
+    "city": "Paisley",
+    "address": "Love St, Paisley PA3 2EA",
+    "fundation": 2009,
+    "dimensions": "101m x 66m",
+    "capacity": 7937,
+    "latitude": 55.850534350000004,
+    "longitude": -4.444205372848037
+},
+{ 
+    "team": "St. Johnstone",
+    "stadium": "McDiarmid Park",
+    "city": "Perth",
+    "address": "Crieff Road, Perth, PH1 2SJ",
+    "fundation": 1989,
+    "dimensions": "101m x 66m",
+    "capacity": 10696,
+    "latitude": 56.409870850000004,
+    "longitude": -3.4768940348432427
+},
+{
+    "team": "Dumbarton",
+    "stadium": "Dumbarton Football Stadium",
+    "city": "Dumbarton",
+    "address": "Castle Rd, Dumbarton G82 1JJ",
+    "fundation": 2000,
+    "dimensions": "105m x 68m",
+    "capacity": 2020,
+    "latitude": 55.9384141,
+    "longitude": -4.561664134572066
+}]

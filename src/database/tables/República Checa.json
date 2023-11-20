@@ -1,0 +1,132 @@
+[{
+    "team": "Sparta Praga",
+    "stadium": "Generali Arena",
+    "city": "Praga",
+    "address": "M. Horákové 1066/98, 170 00 Praga 7-Bubeneč",
+    "fundation": 1969,
+    "dimensions": "105m x 68m",
+    "capacity": 18887,
+    "latitude": 50.099716,
+    "longitude": 14.416122
+},
+{
+    "team": "Slavia Praga",
+    "stadium": "Fortuna Arena",
+    "city": "Praga",
+    "address": "U Slavie 1540/2a, 100 00 Praga 10-Vršovice",
+    "fundation": 2008,
+    "dimensions": "105m x 68m",
+    "capacity": 21000,
+    "latitude": 50.0674943,
+    "longitude": 14.47069626034864
+},
+{
+    "team": "Viktoria Pilsen",
+    "stadium": "Doosan Arena",
+    "city": "Pilsen",
+    "address": "Štruncovy sady 3, 301 12 Pilsen 3",
+    "fundation": 1955,
+    "dimensions": "105m x 68m",
+    "capacity": 13000,
+    "latitude": 49.7499958,
+    "longitude": 13.385119623026664
+},
+{
+    "team": "Slovan Liberec",
+    "stadium": "Stadion U Nisy",
+    "city": "Liberec",
+    "address": "Na Hradbách 1300, Staré Město, 460 01 Liberec",
+    "fundation": 1933,
+    "dimensions": "105m x 69m",
+    "capacity": 9900,
+    "latitude": 50.776214,
+    "longitude": 15.049972
+},
+{
+    "team": "Baník Ostrava",
+    "stadium": "Stadion Bazaly",
+    "city": "Ostrava",
+    "address": "Bukovanského 1028/4, 710 00 Slezská Ostrava",
+    "fundation": 1959,
+    "dimensions": "105m x 68m",
+    "capacity": 17372,
+    "latitude": 49.84465765,
+    "longitude": 18.29945016737118
+},
+{
+    "team": "FK Jablonec",
+    "stadium": "Stadion Střelnice",
+    "city": "Jablonec Nad Nisou",
+    "address": "U Stadionu 4904/5, 466 01 Jablonec Nad Nisou",
+    "fundation": 1955,
+    "dimensions": "105m x 68m",
+    "capacity": 6280,
+    "latitude": 50.71497305,
+    "longitude": 15.16228990522129
+},
+{
+    "team": "Sigma Olomouc",
+    "stadium": "Andrův Stadion",
+    "city": "Olomouc",
+    "address": "Legionářská 1165, 779 00 Olomouc",
+    "fundation": 1940,
+    "dimensions": "105m x 68m",
+    "capacity": 12556,
+    "latitude": 49.6001225,
+    "longitude": 17.248214982572925
+},
+{
+    "team": "F.K. Teplice",
+    "stadium": "Na Stínadlech",
+    "city": "Teplice",
+    "address": "Na Stínadlech 2796, 415 01 Teplice",
+    "fundation": 1973,
+    "dimensions": "105m x 68m",
+    "capacity": 18221,
+    "latitude": 50.640075,
+    "longitude": 13.817936
+},
+{
+    "team": "FK Mladá Boleslav",
+    "stadium": "Městský Stadion",
+    "city": "Mladá Boleslav",
+    "address": "U Stadionu 1118/II, 293 01 Mladá Boleslav",
+    "fundation": 1966,
+    "dimensions": "105m x 68m",
+    "capacity": 5000,
+    "latitude": 50.427083,
+    "longitude": 14.914783
+},
+{
+    "team": "Slovácko",
+    "stadium": "Městský Fotbalový Stadion",
+    "city": "Uherské Hradiště",
+    "address": "Stonky 566, 686 01 Uherské Hradiště",
+    "fundation": 2003,
+    "dimensions": "105m x 68m",
+    "capacity": 8000,
+    "latitude": 49.79690535,
+    "longitude": 18.453139800000002
+},
+{
+    "team": "Bohemians 1905",
+    "stadium": "Ďolíček",
+    "city": "Praga",
+    "address": "Vršovická 1489/31, 101 00 Praga 10-Vršovice",
+    "fundation": 1932,
+    "dimensions": "105m x 68m",
+    "capacity": 7500,
+    "latitude": 50.067147,
+    "longitude": 14.453994400380871
+},
+{
+    "team": "Dukla Praga",
+    "stadium": "Stadion Juliska",
+    "city": "Praga",
+    "address": "Na Julisce 28, 160 00 Dejvice",
+    "fundation": 1960,
+    "dimensions": "105m x 68m",
+    "capacity": 18800,
+    "latitude": 50.111389,
+    "longitude": 14.3875
+}]

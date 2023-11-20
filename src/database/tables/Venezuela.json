@@ -1,0 +1,132 @@
+[{
+  "team": "Caracas",
+  "stadium": "Estadio Olímpico De La UCV",
+  "city": "Caracas",
+  "address": "Av. Las Acacias",
+  "fundation": 1951,
+  "dimensions": "105m x 70m",
+  "capacity": 20900,
+  "latitude": 10.491200599999999,
+  "longitude": -66.88624275280492
+},
+{
+  "team": "Deportivo Táchira",
+  "stadium": "Polideportivo De Pueblo Nuevo",
+  "city": "San Cristóbal",
+  "address": "San Cristóbal 5001",
+  "fundation": 1974,
+  "dimensions": "105m x 70m",
+  "capacity": 38850,
+  "latitude": 7.78707985,
+  "longitude": -72.1978863060783
+},
+{
+  "team": "Zamora FC",
+  "stadium": "Estadio Agustín Tovar",
+  "city": "Barinas",
+  "address": "Av. Andres Varela Y C. Camejo",
+  "fundation": 1956,
+  "dimensions": "105m x 70m",
+  "capacity": 30000,
+  "latitude": 8.6250169,
+  "longitude": -70.20824125965427
+},
+{
+  "team": "Deportivo Miranda",
+  "stadium": "Estadio Brígido Iriarte",
+  "city": "Miranda",
+  "address": "Av. Estadio",
+  "fundation": 1936,
+  "dimensions": "100 x 70m",
+  "capacity": 9800,
+  "latitude": 10.48302725,
+  "longitude": -66.94134136521853
+},
+{
+  "team": "Portuguesa FC",
+  "stadium": "Estadio General José Antonio Páez",
+  "city": "Araure",
+  "address": "Ent. Urb. El Pilar Y Av. 27",
+  "fundation": 1973,
+  "dimensions": "105m x 68m",
+  "capacity": 18000,
+  "latitude": 9.57112365,
+  "longitude": -69.2102212511997
+},
+{
+  "team": "Deportivo Lara",
+  "stadium": "Estadio Farid Richa",
+  "city": "Barquisimeto",
+  "address": "Av. Libertador C. 37",
+  "fundation": 2007,
+  "dimensions": "105m x 68m",
+  "capacity": 14000,
+  "latitude": 10.0806229,
+  "longitude": -69.32919846054617
+},
+{
+  "team": "Estudiantes De Mérida",
+  "stadium": "Metropolitano De Mérida",
+  "city": "Mérida",
+  "address": "Viad. Táchira",
+  "fundation": 2007,
+  "dimensions": "110m x 70m",
+  "capacity": 43200,
+  "latitude": 8.55586575,
+  "longitude": -71.21799652527476
+},
+{
+  "team": "Mineros De Guayana",
+  "stadium": "Estadio C.T.E. Cachamay",
+  "city": "Ciudad Guayana",
+  "address": "Av. Vía Caracas Y Av. Guayana",
+  "fundation": 1980,
+  "dimensions": "105m x 68m",
+  "capacity": 41600,
+  "latitude": 8.3126855,
+  "longitude": -62.69633953138717
+},
+{
+  "team": "Trujillanos FC",
+  "stadium": "Estadio José Alberto Pérez",
+  "city": "Valera",
+  "address": "Av. Las Ferias",
+  "fundation": 1976,
+  "dimensions": "105m x 68m",
+  "capacity": 30000,
+  "latitude": 9.3341402,
+  "longitude": -70.60184228716498
+},
+{
+  "team": "Metropolitanos FC",
+  "stadium": "Estadio Olímpico De La UCV",
+  "city": "Caracas",
+  "address": "Av. Las Acacias",
+  "fundation": 1951,
+  "dimensions": "105m x 70m",
+  "capacity": 20900,
+  "latitude": 10.491200599999999,
+  "longitude": -66.88624275280492
+},
+{
+  "team": "Monagas SC",
+  "stadium": "Estadio Monumental De Maturín",
+  "city": "Maturín",
+  "address": "Av. Bella Vista",
+  "fundation": 2007,
+  "dimensions": "105m x 68m",
+  "capacity": 51796,
+  "latitude": 9.7100774,
+  "longitude": -63.26776
+},
+{
+  "team": "Carabobo",
+  "stadium": "Polideportivo Misael Delgado",
+  "city": "Valencia",
+  "address": "Av. Andrés Eloy Blanco",
+  "fundation": 1964,
+  "dimensions": "110m x 70m",
+  "capacity": 12500,
+  "latitude": 10.2232531,
+  "longitude": -68.01165401959668
+}]

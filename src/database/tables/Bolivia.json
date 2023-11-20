@@ -1,0 +1,132 @@
+[{
+  "team": "Bolívar",
+  "stadium": "Estadio Hernando Siles",
+  "city": "La Paz",
+  "address": "Capitan Hugo Estrada",
+  "fundation": 1927,
+  "dimensions": "105m x 68m",
+  "capacity": 41143,
+  "latitude": -16.4994503,
+  "longitude": -68.12285323599266
+},
+{
+  "team": "The Strongest",
+  "stadium": "Estadio Rafael Mendoza Castellón",
+  "city": "La Paz",
+  "address": "Zona Sur, 34 Achumani ",
+  "fundation": 1930,
+  "dimensions": "105m x 68m",
+  "capacity": 45143,
+  "latitude": -16.515362699999997,
+  "longitude": -68.06372787940721
+},
+{
+  "team": "Oriente Petrolero",
+  "stadium": "Estadio Ramón Aguilera Costas",
+  "city": "Santa Cruz",
+  "address": "Av. Ana Barba Y Av. Ejército Nacional",
+  "fundation": 1940,
+  "dimensions": "105m x 68m",
+  "capacity": 38700,
+  "latitude": -17.79600145,
+  "longitude": -63.18383786580599
+},
+{
+  "team": "Blooming",
+  "stadium": "Estadio Ramón Aguilera Costas",
+  "city": "Santa Cruz",
+  "address": "Av. Ana Barba Y Av. Ejército Nacional",
+  "fundation": 1940,
+  "dimensions": "105m x 68m",
+  "capacity": 38700,
+  "latitude": -17.79600145,
+  "longitude": -63.18383786580599
+},
+{
+  "team": "Jorge Wilstermann",
+  "stadium": "Estadio Félix Capriles",
+  "city": "Cochabamba",
+  "address": "Av. Libertador Simón Bolívar",
+  "fundation": 1949,
+  "dimensions": "105m x 68m",
+  "capacity": 32000,
+  "latitude": -17.379295650000003,
+  "longitude": -66.16170087579985
+},
+{
+  "team": "Nacional Potosí",
+  "stadium": "Estadio Víctor Agustín Ugarte",
+  "city": "Potosí",
+  "address": "Calle Sucre Esq. Lucas Jaimes",
+  "fundation": 1942,
+  "dimensions": "103m x 66m",
+  "capacity": 32105,
+  "latitude": -19.5789419,
+  "longitude": -65.76138178969089
+},
+{
+  "team": "Real Potosí",
+  "stadium": "Estadio Víctor Agustín Ugarte",
+  "city": "Potosí",
+  "address": "Calle Sucre Esq. Lucas Jaimes",
+  "fundation": 1942,
+  "dimensions": "103m x 66m",
+  "capacity": 32000,
+  "latitude": -19.5789419,
+  "longitude": -65.76138178969089
+},
+{
+  "team": "San José",
+  "stadium": "Estadio Jesús Bermúdez",
+  "city": "Oruro",
+  "address": "Av. Segundo Encinas Y Teniente León",
+  "fundation": 1942,
+  "dimensions": "105m x 68m",
+  "capacity": 33000,
+  "latitude": -17.9462366,
+  "longitude": -67.11137706506224
+},
+{
+  "team": "Always Ready",
+  "stadium": "Estadio Municipal De El Alto",
+  "city": "El Alto",
+  "address": "Zona De Villa Ingenio",
+  "fundation": 1933,
+  "dimensions": "105m x 68m",
+  "capacity": 25000,
+  "latitude": -16.472752550000003,
+  "longitude": -68.2014968885188
+},
+{
+  "team": "Guabirá",
+  "stadium": "Estadio Gilberto Parada",
+  "city": "Montero",
+  "address": "C. Ballivian",
+  "fundation": 1962,
+  "dimensions": "105m x 68m",
+  "capacity": 18000,
+  "latitude": -17.343157650000002,
+  "longitude": -63.26210865995165
+},
+{
+  "team": "Aurora",
+  "stadium": "Estadio Félix Capriles",
+  "city": "Cochabamba",
+  "address": "Av. Libertador Simón Bolívar",
+  "fundation": 1949,
+  "dimensions": "105m x 68m",
+  "capacity": 32000,
+  "latitude": -17.379295650000003,
+  "longitude": -66.16170087579985
+},
+{
+  "team": "Independiente Petrolero",
+  "stadium": "Estadio Olímpico Patria",
+  "city": "Sucre",
+  "address": "Av. Jaime Mondoza",
+  "fundation": 1992,
+  "dimensions": "105m x 68m",
+  "capacity": 32700,
+  "latitude": -19.03352135,
+  "longitude": -65.2578685808661
+}]

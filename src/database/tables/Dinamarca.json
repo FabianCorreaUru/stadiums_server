@@ -1,0 +1,132 @@
+[{
+  "team": "FC Copenhague",
+  "stadium": "Parken Stadium",
+  "city": "Copenhague",
+  "address": "Per Henrik Lings Allé 2, Copenhague",
+  "fundation": 1992,
+  "dimensions": "105m x 68m",
+  "capacity": 42305,
+  "latitude": 55.70270425,
+  "longitude": 12.572263776860414
+},
+{
+  "team": "Brondby",
+  "stadium": "Brøndby Stadium",
+  "city": "Brøndby",
+  "address": "Brøndbyvester Boulevard 51, Brøndby",
+  "fundation": 1964,
+  "dimensions": "105m x 68m",
+  "capacity": 29500,
+  "latitude": 55.649656,
+  "longitude": 12.417684
+},
+{
+  "team": "FC Midtjylland",
+  "stadium": "MCH Arena",
+  "city": "Herning",
+  "address": "Kaj Zartows Vej 5, Herning",
+  "fundation": 2004,
+  "dimensions": "105m x 68m",
+  "capacity": 12000,
+  "latitude": 56.11685995,
+  "longitude": 8.951769387926749
+},
+{
+  "team": "FC Nordsjælland",
+  "stadium": "Right To Dream Park",
+  "city": "Farum",
+  "address": "Frederiksborgvej 599, Farum",
+  "fundation": 1999,
+  "dimensions": "105m x 68m",
+  "capacity": 10100,
+  "latitude": 55.81619865,
+  "longitude": 12.353032590985052
+},
+{
+  "team": "Aalborg BK",
+  "stadium": "Aalborg Portland Park",
+  "city": "Aalborg",
+  "address": "Harald Jensens Vej 5, Aalborg",
+  "fundation": 1960,
+  "dimensions": "105m x 68m",
+  "capacity": 16000,
+  "latitude": 57.05203525,
+  "longitude": 9.898599342025985
+},
+{
+  "team": "OB Odense",
+  "stadium": "Odense Stadion",
+  "city": "Odense",
+  "address": "Højstrupvej 7B, 5200, Odense",
+  "fundation": 1941,
+  "dimensions": "105m x 68m",
+  "capacity": 15790,
+  "latitude": 55.39885765,
+  "longitude": 10.351473962973312
+},
+{
+  "team": "Silkeborg IF",
+  "stadium": "JYSK Park",
+  "city": "Silkeborg",
+  "address": "Ansvej 104, 8600, Silkeborg",
+  "fundation": 2017,
+  "dimensions": "105m x 68m",
+  "capacity": 10250,
+  "latitude": 56.184187,
+  "longitude": 9.5751522579733
+},
+{
+  "team": "AGF Aarhus",
+  "stadium": "Ceres Park & Arena",
+  "city": "Aarhus",
+  "address": "Stadion Allé 70, 8000, Aarhus C",
+  "fundation": 1920,
+  "dimensions": "105m x 68m",
+  "capacity": 20032,
+  "latitude": 56.13208955,
+  "longitude": 10.195957756741086
+},
+{
+  "team": "Randers FC",
+  "stadium": "Randers Stadion",
+  "city": "Randers",
+  "address": "Viborgvej 92, Randers",
+  "fundation": 1961,
+  "dimensions": "105m x 68m",
+  "capacity": 10300,
+  "latitude": 56.46607165,
+  "longitude": 10.010154126188361
+},
+{
+  "team": "Vejle BK",
+  "stadium": "Vejle Stadion",
+  "city": "Vejle",
+  "address": "Roms Hule 6, 7100, Vejle",
+  "fundation": 2008,
+  "dimensions": "105m x 68m",
+  "capacity": 15332,
+  "latitude": 55.71372409999999,
+  "longitude": 9.556157838024756
+},
+{
+  "team": "Esbjerg fB",
+  "stadium": "Blue Water Arena",
+  "city": "Esbjerg",
+  "address": "Gl. Vardevej 82, Esbjerg",
+  "fundation": 1955,
+  "dimensions": "105m x 68m",
+  "capacity": 18000,
+  "latitude": 55.48194305,
+  "longitude": 8.438397123328269
+},
+{
+  "team": "Lyngby BK",
+  "stadium": "Lyngby Stadion",
+  "city": "Lyngby",
+  "address": "Lundtoftevej 53, 2800, Kongens Lyngby",
+  "fundation": 1949,
+  "dimensions": "105m x 68m",
+  "capacity": 10100,
+  "latitude": 55.7813228,
+  "longitude": 12.505714505112913
+}]

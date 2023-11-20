@@ -1,0 +1,133 @@
+[{
+  "team": "Benfica",
+  "stadium": "Estádio Da Luz",
+  "city": "Lisboa",
+  "address": "Av. Eusébio Da Silva Ferreira, 1500-313 Lisboa",
+  "fundation": 2003,
+  "dimensions": "105m x 68m",
+  "capacity": 66500,
+  "latitude": 38.7526809,
+  "longitude": -9.184661888906753
+},
+{
+  "team": "Porto",
+  "stadium": "Estádio Do Dragão",
+  "city": "Porto",
+  "address": "Via Futebol Clube Do Porto, 4350-415 Porto",
+  "fundation": 2003,
+  "dimensions": "105m x 68m",
+  "capacity": 55555,
+  "latitude": 41.1616739,
+  "longitude": -8.583741116735279
+},
+{
+  "team": "Sporting De Lisboa",
+  "stadium": "Estádio José Alvalade",
+  "city": "Lisboa",
+  "address": "Rua Professor Fernando Da Fonseca, 1501-806 Lisboa",
+  "fundation": 2003,
+  "dimensions": "105m x 68m",
+  "capacity": 52000,
+  "latitude": 38.761216399999995,
+  "longitude": -9.160783134674658
+},
+{
+  "team": "Belenenses",
+  "stadium": "Estádio Do Restelo",
+  "city": "Lisboa",
+  "address": "Praceta Torres Do Restelo, 1449-015 Lisboa",
+  "fundation": 1956,
+  "dimensions": "105m x 68m",
+  "capacity": 19856,
+  "latitude": 38.70240095,
+  "longitude": -9.20789132358843
+},
+{
+  "team": "Braga",
+  "stadium": "Estádio Municipal De Braga",
+  "city": "Braga",
+  "address": "Parque Norte, R. Monte De Castro 12, 4700-087 Braga",
+  "fundation": 2003,
+  "dimensions": "105m x 68m",
+  "capacity": 30286,
+  "latitude": 41.56249955,
+  "longitude": -8.429867703056743
+},
+{
+  "team": "Vitória SC",
+  "stadium": "Estádio Dom Afonso Henriques",
+  "city": "Guimarães",
+  "address": "Av. São Gonçalo 1028, Guimarães",
+  "fundation": 2003,
+  "dimensions": "105m x 68m",
+  "capacity": 30165,
+  "latitude": 41.445833,
+  "longitude": -8.301111
+},
+{
+  "team": "Boavista FC",
+  "stadium": "Estádio Do Bessa",
+  "city": "Porto",
+  "address": "Rua O Primeiro De Janeiro, 4100-365 Porto",
+  "fundation": 1999,
+  "dimensions": "105m x 68m",
+  "capacity": 28263,
+  "latitude": 41.16219775,
+  "longitude": -8.64260125690851
+},
+{
+  "team": "Moreirense FC",
+  "stadium": "Parque Comendador Joaquim De Almeida Freitas",
+  "city": "Moreira de Cónegos",
+  "address": "Av. Comendador Joaquim De Almeida Freitas, 4870-270 Moreira De Cónegos",
+  "fundation": 2002,
+  "dimensions": "105m x 68m",
+  "capacity": 9000,
+  "latitude": 41.377986500000006,
+  "longitude": -8.354531807496363
+},
+{
+  "team": "Marítimo",
+  "stadium": "Estádio Dos Barreiros",
+  "city": "Funchal",
+  "address": "Avenida Coronel Melo Antunes, Funchal",
+  "fundation": 1957,
+  "dimensions": "105m x 68m",
+  "capacity": 10932,
+  "latitude": 32.6460231,
+  "longitude": -16.9259214
+},
+{
+  "team": "Gil Vicente FC",
+  "stadium": "Estádio Cidade De Barcelos",
+  "city": "Barcelos",
+  "address": "Apartado 197, 4750-282 Vila Boa, Barcelos",
+  "fundation": 2004,
+  "dimensions": "106m x 68m",
+  "capacity": 12754,
+  "latitude": 41.55109675,
+  "longitude": -8.622913409449957
+},
+{
+  "team": "Portimonense",
+  "stadium": "Estádio Municipal De Portimão",
+  "city": "Portimão",
+  "address": "R. Do Campo De Futebol 37, 8500-722 Portimão",
+  "fundation": 1937,
+  "dimensions": "105m x 68m",
+  "capacity": 9544 ,
+  "latitude": 37.1356935,
+  "longitude": -8.539830494534439
+},
+{
+  "team": "Rio Ave FC",
+  "stadium": "Estádio Do Rio Ave FC",
+  "city": "Vila Do Conde",
+  "address": "R. Dom Sancho I 2, 4480-876 Vila Do Conde",
+  "fundation": 1984,
+  "dimensions": "105m x 68m",
+  "capacity": 12815,
+  "latitude": 41.3627496,
+  "longitude": -8.74014568502836
+}
+]

@@ -1,0 +1,133 @@
+[{
+  "team": "Legia De Varsovia",
+  "stadium": "Stadion Wojska Polskiego",
+  "city": "Varsovia",
+  "address": "Łazienkowska 3, Varsovia",
+  "fundation": 2010,
+  "dimensions": "105m x 68m",
+  "capacity": 31800,
+  "latitude": 52.22065965,
+  "longitude": 21.040785042637353
+},
+{
+  "team": "Wisla Cracovia",
+  "stadium": "Henryk Reyman",
+  "city": "Cracovia",
+  "address": "Władysława Reymonta 22, 30-059 Cracovia",
+  "fundation": 1906,
+  "dimensions": "105m x 72m",
+  "capacity": 33024,
+  "latitude": 50.0639113,
+  "longitude": 19.910787859083023
+},
+{
+  "team": "Ruch Chorzów",
+  "stadium": "Stadion Ruchu Chorzów",
+  "city": " Chorzów",
+  "address": "Cicha 6, 41-506 Chorzów",
+  "fundation": 1935,
+  "dimensions": "107m x 67m",
+  "capacity": 10.000,
+  "latitude": 50.282223599999995,
+  "longitude": 18.944598799496582
+},
+{
+  "team": "Lech Poznań",
+  "stadium": "Stadion Miejski",
+  "city": "Poznan",
+  "address": "Bułgarska 17, 60-320 Poznan",
+  "fundation": 2003,
+  "dimensions": "105m x 68m",
+  "capacity": 45830,
+  "latitude": 50.2986206,
+  "longitude": 21.43585432033997
+},
+{
+  "team": "Górnik Zabrze",
+  "stadium": "Stadion Ernesta Pohla",
+  "city": "Zabrze",
+  "address": "Roosevelta 81, 41-800 Zabrze",
+  "fundation": 1934,
+  "dimensions": "105m x 68m",
+  "capacity": 24563,
+  "latitude": 50.2962957,
+  "longitude": 18.76834933393763
+},
+{
+  "team": "Widzew Lódz",
+  "stadium": "Stadion Widzewa Łódź",
+  "city": "Łódź",
+  "address": "Al. marsz. Józefa Piłsudskiego 138, 92-230 Łódź",
+  "fundation": 1930,
+  "dimensions": "105m x 68m",
+  "capacity": 18018,
+  "latitude": 51.76504735,
+  "longitude": 19.51098302102206
+},
+{
+  "team": "Śląsk Wrocław",
+  "stadium": "Stadion Wrocław",
+  "city": "Wrocław",
+  "address": "Al. Śląska 1, 54-118 Wrocław",
+  "fundation": 2011,
+  "dimensions": "105m x 68m",
+  "capacity": 44416,
+  "latitude": 51.141797,
+  "longitude": 16.944094
+},
+{
+  "team": "ŁKS Łódź",
+  "stadium": "Władysław Król",
+  "city": "Łódź",
+  "address": "Aleja Unii Lubelskiej 2, 94-020 Łódź",
+  "fundation": 2015,
+  "dimensions": "104m x 68m",
+  "capacity": 18029,
+  "latitude": 51.758947899999995,
+  "longitude": 19.42629376548627
+},
+{
+  "team": "Pogoń Szczecin",
+  "stadium": "Stadion Florian Krygier",
+  "city": "Szczecin",
+  "address": "Mieczysława Karłowicza 28, 71-899 Szczecin",
+  "fundation": 1925,
+  "dimensions": "105m x 68m",
+  "capacity": 21163,
+  "latitude": 53.4364773,
+  "longitude": 14.518515938349008
+},
+{
+  "team": "Zagłębie Lubin",
+  "stadium": "Stadion Zagłębia Lubin",
+  "city": "Lubin",
+  "address": "Marii Skłodowskiej - Curie 98, 59-300 Lubin",
+  "fundation": 1948,
+  "dimensions": "105m x 68m",
+  "capacity": 16300,
+  "latitude": 51.41392525,
+  "longitude": 16.199103068872226
+},
+{
+  "team": "Jagiellonia Białystok",
+  "stadium": "Stadion Miejski W Białystoku",
+  "city": "Białystok",
+  "address": "Słoneczna 1, 15-323 Białystok",
+  "fundation": 1971,
+  "dimensions": "105m x 68m",
+  "capacity": 22386,
+  "latitude": 53.1059283,
+  "longitude": 23.15012544809046
+},
+{
+  "team": "Korona Kielce",
+  "stadium": "Stadion Miejski W Kielcach",
+  "city": "Kielce",
+  "address": "Ul. Ściegiennego 8, Kielce",
+  "fundation": 2006,
+  "dimensions": "105m x 68m",
+  "capacity": 15500,
+  "latitude": 50.861389,
+  "longitude": 20.624722
+}
+]

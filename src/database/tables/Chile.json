@@ -1,0 +1,177 @@
+[{
+  "team": "Colo-Colo",
+  "stadium": "Estadio Monumental",
+  "city": "Santiago",
+  "address": "Av. Marathon 5300",
+  "fundation": 1975,
+  "dimensions": "105m x 70m",
+  "capacity": 43667,
+  "latitude": -33.50643725,
+  "longitude": -70.60594681068619
+},
+{
+  "team": "Universidad De Chile",
+  "stadium": "Estadio Nacional",
+  "city": "Santiago",
+  "address": "Av. Grecia 2001",
+  "fundation": 1938,
+  "dimensions": "105m x 68m",
+  "capacity": 48665,
+  "latitude": -33.464382099999995,
+  "longitude": -70.61061809176775
+},
+{
+  "team": "Universidad Católica",
+  "stadium": "Estadio San Carlos De Apoquindo",
+  "city": "Santiago",
+  "address": "Av. Las Flores 13000",
+  "fundation": 1988,
+  "dimensions": "105m x 68m",
+  "capacity": 14768,
+  "latitude": -33.39594745,
+  "longitude": -70.5006737010339
+},
+{
+  "team": "Cobreloa",
+  "stadium": "Estadio Zorros Del Desierto",
+  "city": "Calama",
+  "address": "Av. Matta 2007",
+  "fundation": 1952,
+  "dimensions": "105m x 68m",
+  "capacity": 12102,
+  "latitude": -22.4605187,
+  "longitude": -68.92058287696753
+},
+{
+  "team": "Audax Italiano",
+  "stadium": "Estadio Bicentenario De La Florida",
+  "city": "Santiago",
+  "address": "Enrique Olivares 1003",
+  "fundation": 1986,
+  "dimensions": "105m x 68m",
+  "capacity": 12000,
+  "latitude": -33.540802400000004,
+  "longitude": -70.57818200736378
+},
+{
+  "team": "Huachipato",
+  "stadium": "Estadio Huachipato-CAP Acero",
+  "city": "Talcahuano",
+  "address": "Av. Desiderio García 909",
+  "fundation": 2009,
+  "dimensions": "100m x 65m",
+  "capacity": 10500,
+  "latitude": -36.755023050000005,
+  "longitude": -73.10752110389154
+},
+{
+  "team": "Santiago Wanderers",
+  "stadium": "Estadio Elías Figueroa Brander",
+  "city": "Valparaíso",
+  "address": "Av. Guillermo González De Hontaneda",
+  "fundation": 1892,
+  "dimensions": "105m x 68m",
+  "capacity": 25568,
+  "latitude": -33.0223873,
+  "longitude": -71.63899624991137
+},
+{
+  "team": "Palestino",
+  "stadium": "Estadio Municipal De La Cisterna",
+  "city": "Santiago",
+  "address": "Av. El Parrón 0999",
+  "fundation": 1988,
+  "dimensions": "105m x 68m",
+  "capacity": 12000,
+  "latitude": -33.520672149999996,
+  "longitude": -70.67390095108027
+},
+{
+  "team": "Deportes Iquique",
+  "stadium": "Estadio Tierra De Campeones",
+  "city": "Iquique",
+  "address": "Av. Salvador Allende Qsq. Tadeo Haenke",
+  "fundation": 1960,
+  "dimensions": "100m x 70m",
+  "capacity": 13171,
+  "latitude": -20.24241205,
+  "longitude": -70.13313747200394
+},
+{
+  "team": "Deportes La Serena",
+  "stadium": "Estadio La Portada",
+  "city": "La Serena",
+  "address": "Av. José Manuel Balmaceda S/N",
+  "fundation": 1952,
+  "dimensions": "105m x 68m",
+  "capacity": 18500,
+  "latitude": -29.91144575,
+  "longitude": -71.25200291686693
+},
+{
+  "team": "Cobresal",
+  "stadium": "Estadio El Cobre",
+  "city": "El Salvador",
+  "address": "Av. El Tofo 2500",
+  "fundation": 1979,
+  "dimensions": "100m x 68m",
+  "capacity": 12000,
+  "latitude": -26.2518836,
+  "longitude": -69.6287189464777
+},
+{
+  "team": "Everton De Viña Del Mar",
+  "stadium": "Estadio Sausalito",
+  "city": "Viña Del Mar",
+  "address": "Av. Padre Hurtado S/N",
+  "fundation": 1929,
+  "dimensions": "105m x 68m",
+  "capacity": 28000,
+  "latitude": -33.0144473,
+  "longitude": -71.53414452791412
+},
+{
+  "team": "O'Higgins",
+  "stadium": "Estadio El Teniente",
+  "city": "Rancagua",
+  "address": "Av. Capitán Ramón Freire",
+  "fundation": 1945,
+  "dimensions": "105m x 68m",
+  "capacity": 12476,
+  "latitude": -34.17780955,
+  "longitude": -70.73754784701264
+},
+{
+  "team": "Curicó Unido",
+  "stadium": "Estadio Bicentenario La Granja",
+  "city": "Curicó",
+  "address": "Av. Juan Luis Diez 1345",
+  "fundation": 1973,
+  "dimensions": "105m x 68m",
+  "capacity": 8265,
+  "latitude": -34.97477515,
+  "longitude": -71.22983915372002
+},
+{
+  "team": "Unión Española",
+  "stadium": "Estadio Santa Laura",
+  "city": "Santiago",
+  "address": "Julio Martínez Prádanos 1365",
+  "fundation": 1923,
+  "dimensions": "105m x 68m",
+  "capacity": 19887,
+  "latitude": -33.4043378,
+  "longitude": -70.65851276782432
+},
+{
+  "team": "Ñublense",
+  "stadium": "Bicentenario Municipal Nelson Oyarzún",
+  "city": "Chillán",
+  "address": "Pedro Aguirre Cerda 297",
+  "fundation": 1935,
+  "dimensions": "106m x 72m",
+  "capacity": 12000,
+  "latitude": -36.61844585,
+  "longitude": -72.1077217307897
+}
+]

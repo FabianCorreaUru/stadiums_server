@@ -1,0 +1,177 @@
+[{
+  "team": "Atlético Nacional",
+  "stadium": "Estadio Atanasio Girardot",
+  "city": "Medellín",
+  "address": "Carrera 74 # 48-21",
+  "fundation": 1953,
+  "dimensions": "110m x 73m",
+  "capacity": 44739,
+  "latitude": 6.2567716,
+  "longitude": -75.59016944999999
+  },
+  {
+  "team": "Independiente Medellín",
+  "stadium": "Estadio Atanasio Girardot",
+  "city": "Medellín",
+  "address": "Carrera 74 # 48D - 25",
+  "fundation": 1953,
+  "dimensions": "105m x 70m",
+  "capacity": 44739,
+  "latitude": 6.2567716,
+  "longitude": -75.59016944999999
+  },
+  {
+  "team": "Millonarios",
+  "stadium": "Estadio El Campín",
+  "city": "Bogotá",
+  "address": "Avenida NQS Con Calle 57",
+  "fundation": 1938,
+  "dimensions": "105m x 68m",
+  "capacity": 36343,
+  "latitude": 4.64594945,
+  "longitude": -74.0776053940335
+  },
+  {
+  "team": "Independiente Santa Fe",
+  "stadium": "Estadio El Campín",
+  "city": "Bogotá",
+  "address": "Avenida NQS Con Calle 57",
+  "fundation": 1938,
+  "dimensions": "105m x 68m",
+  "capacity": 36343,
+  "latitude": 4.64594945,
+  "longitude": -74.0776053940335
+  },
+  {
+  "team": "Deportivo Cali",
+  "stadium": "Estadio Deportivo Cali",
+  "city": "Cali",
+  "address": "Vía Estadio Palmaseca",
+  "fundation": 2010,
+  "dimensions": "105m x 68m",
+  "capacity": 42000,
+  "latitude": 3.5216810499999998,
+  "longitude": -76.41706255864565
+  },
+  {
+  "team": "América De Cali",
+  "stadium": "Olímpico Pascual Guerrero",
+  "city": "Cali",
+  "address": "Carrera 36 # 5B-32 San Fernando",
+  "fundation": 1937,
+  "dimensions": "105m x 68m",
+  "capacity": 35405,
+  "latitude": 3.4299109999999997,
+  "longitude": -76.54111977437688
+  },
+  {
+  "team": "Junior",
+  "stadium": "Estadio Metropolitano Roberto Meléndez",
+  "city": "Barranquilla",
+  "address": "Murillo Toro, Los Corales",
+  "fundation": 1986,
+  "dimensions": "105m x 70m",
+  "capacity": 46692,
+  "latitude": 10.978919,
+  "longitude": -74.794505
+  },
+  {
+  "team": "Atlético Bucaramanga",
+  "stadium": "Estadio Alfonso López",
+  "city": "Bucaramanga",
+  "address": "Carrera 30 Y La Calle 14",
+  "fundation": 1941,
+  "dimensions": "105m x 70m",
+  "capacity": 25000 ,
+  "latitude": 7.1367499500000005,
+  "longitude": -73.11681623468155
+  },
+  {
+  "team": "Once Caldas",
+  "stadium": "Estadio Palogrande",
+  "city": "Manizales",
+  "address": "Cra. 25 #64-00",
+  "fundation": 1936,
+  "dimensions": "105m x 68m",
+  "capacity": 286784,
+  "latitude": 5.0571432000000005,
+  "longitude": -75.49067676153496
+  },
+  {
+  "team": "Deportes Tolima",
+  "stadium": "Estadio Manuel Murillo Toro",
+  "city": "Ibagué",
+  "address": "Cl. 37, Ibagué",
+  "fundation": 1955,
+  "dimensions": "105m x 70m",
+  "capacity": 28100,
+  "latitude": 4.4297943,
+  "longitude": -75.21799880598945
+  },
+  {
+  "team": "Deportivo Pasto",
+  "stadium": "Estadio Departamental Libertad",
+  "city": "Pasto",
+  "address": "Calle 12b, Pasto",
+  "fundation": 1954,
+  "dimensions": "105m x 68m",
+  "capacity": 20000,
+  "latitude": 1.1980848499999999,
+  "longitude": -77.27789480294642
+  },
+  {
+  "team": "Atlético Huila",
+  "stadium": "Estadio Guillermo Plazas Alcid",
+  "city": "Neiva",
+  "address": "Carrera 16, La libertad",
+  "fundation": 1980,
+  "dimensions": "105m x 70m",
+  "capacity": 10200,
+  "latitude": 2.9359966,
+  "longitude": -75.2802791
+  },
+  {
+  "team": "Alianza Petrolera",
+  "stadium": "Estadio Daniel Villa Zapata",
+  "city": "Barrancabermeja",
+  "address": "Carrera 11 Y Calle 67",
+  "fundation": 1970,
+  "dimensions": "105m x 70m",
+  "capacity": 10400,
+  "latitude": 7.07318185,
+  "longitude": -73.8646825537699
+  },
+  {
+  "team": "La Equidad",
+  "stadium": "Estadio Metropolitano De Techo",
+  "city": "Bogotá",
+  "address": "Carrera 71d",
+  "fundation": 1954,
+  "dimensions": "105m x 68m",
+  "capacity": 10000,
+  "latitude": 4.6241017499999995,
+  "longitude": -74.13568614373793
+  },
+  {
+  "team": "Jaguares De Córdoba",
+  "stadium": "Estadio Municipal Jaraguay",
+  "city": "Montería",
+  "address": "Carrera 74",
+  "fundation": 2011,
+  "dimensions": "105m x 70m",
+  "capacity": 12000,
+  "latitude": 8.7117604,
+  "longitude": -75.82774685495707
+  },
+  {
+  "team": "Deportivo Pereira",
+  "stadium": "Estadio Hernán Ramírez Villegas",
+  "city": "Pereira",
+  "address": "Villa Olímpica",
+  "fundation": 1971,
+  "dimensions": "105m x 68m",
+  "capacity": 30297,
+  "latitude": 4.80463685,
+  "longitude": -75.75215177112554
+  }
+]

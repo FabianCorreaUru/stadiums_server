@@ -1,0 +1,133 @@
+[{
+  "team": "Universitario De Deportes",
+  "stadium": "Estadio Monumental",
+  "city": "Lima",
+  "address": "Av. Javier Prado 7596",
+  "fundation": 2000,
+  "dimensions": "105m x 68m",
+  "capacity": 80093,
+  "latitude": -12.055647350000001,
+  "longitude": -76.93533380986884
+},
+{
+  "team": "Alianza Lima",
+  "stadium": "Estadio Alejandro Villanueva",
+  "city": "Lima",
+  "address": "Av. Isabel La Católica 821",
+  "fundation": 1974,
+  "dimensions": "105m x 68m",
+  "capacity": 33938,
+  "latitude": -12.0685088,
+  "longitude": -77.02293932089826
+},
+{
+  "team": "Sporting Cristal",
+  "stadium": "Estadio Alberto Gallardo",
+  "city": "Lima",
+  "address": "San Martín De Porres",
+  "fundation": 1995,
+  "dimensions": "105m x 68m",
+  "capacity": 11600,
+  "latitude": -12.037848499999999,
+  "longitude": -77.04503075266611
+},
+{
+  "team": "Sport Boys",
+  "stadium": "Estadio Miguel Grau",
+  "city": "Callao",
+  "address": "Av. Óscar R. Benavides Y Bellavista",
+  "fundation": 1996,
+  "dimensions": "105m x 68m",
+  "capacity": 17000,
+  "latitude": -12.0598366,
+  "longitude": -77.11994384258793
+},
+{
+  "team": "Melgar",
+  "stadium": "Estadio Monumental UNSA",
+  "city": "Arequipa",
+  "address": "Av. Venezuela S/N",
+  "fundation": 1995,
+  "dimensions": "105m x 68m",
+  "capacity": 60060,
+  "latitude": -16.40729665,
+  "longitude": -71.52047985727819
+},
+{
+  "team": "Cienciano",
+  "stadium": "Estadio Inca Garcilaso De La Vega",
+  "city": "Cusco",
+  "address": "Ramon Castilla Y 9 De Octubre",
+  "fundation": 1958,
+  "dimensions": "105m x 68m",
+  "capacity": 45000,
+  "latitude": -13.52555965,
+  "longitude": -71.9664690244081
+},
+{
+  "team": "Deportivo Garcilaso",
+  "stadium": "Estadio Inca Garcilaso De La Vega",
+  "city": "Cusco",
+  "address": "Ramon Castilla Y 9 De Octubre",
+  "fundation": 1958,
+  "dimensions": "105m x 68m",
+  "capacity": 45000,
+  "latitude": -13.52555965,
+  "longitude": -71.9664690244081
+},
+{
+  "team": "Deportivo Municipal",
+  "stadium": "Estadio Iván Elías Moreno",
+  "city": "Lima",
+  "address": "Av. Los Alamos Y Av. 3 De Octubre",
+  "fundation": 2002,
+  "dimensions": "105 x 70m",
+  "capacity": 13773,
+  "latitude": -12.22021745,
+  "longitude": -76.93492510190309
+},
+{
+  "team": "Sport Huancayo",
+  "stadium": "Estadio Huancayo",
+  "city": "Huancayo",
+  "address": "Av. Jacinto Ibarra Y Av. Ocopilla",
+  "fundation": 1962,
+  "dimensions": "105m x 68m",
+  "capacity": 20000,
+  "latitude": -12.072778,
+  "longitude": -75.201944
+},
+{
+  "team": "Real Garcilaso",
+  "stadium": "Estadio Inca Garcilaso De La Vega",
+  "city": "Cusco",
+  "address": "Ramon Castilla Y 9 De Octubre",
+  "fundation": 1958,
+  "dimensions": "105m x 68m",
+  "capacity": 45000,
+  "latitude": -13.52555965,
+  "longitude": -71.9664690244081
+},
+{
+  "team": "César Vallejo",
+  "stadium": "Estadio Mansiche",
+  "city": "Trujillo",
+  "address": "Av. Olímpica",
+  "fundation": 1946,
+  "dimensions": "105m x 68m",
+  "capacity": 25036,
+  "latitude": -8.106655,
+  "longitude": -79.030977
+},
+{
+  "team": "Ayacucho FC",
+  "stadium": "Estadio Ciudad De Cumaná",
+  "city": "Ayacucho",
+  "address": "Jr. Pichincha Y Av. Del Deporte",
+  "fundation": 1974,
+  "dimensions": "105m x 70m",
+  "capacity": 15000,
+  "latitude": -13.151638888889,
+  "longitude": -74.21989714607041
+}
+]

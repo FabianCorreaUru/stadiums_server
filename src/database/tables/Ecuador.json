@@ -1,0 +1,177 @@
+[{
+    "team": "Barcelona (Ecuador)",
+    "stadium": "Estadio Monumental Banco Pichincha",
+    "city": "Guayaquil",
+    "address": "Av. Barcelona, Guayaquil 090615",
+    "fundation": 1987,
+    "dimensions": "105m x 68m",
+    "capacity": 60000,
+    "latitude": -2.18572035,
+    "longitude": -79.92497084259743
+  },
+  {
+    "team": "Emelec",
+    "stadium": "Estadio George Capwell",
+    "city": "Guayaquil",
+    "address": "San Martín Y Av. Quito",
+    "fundation": 1945,
+    "dimensions": "105m x 68m",
+    "capacity": 39000,
+    "latitude": -2.2066923999999997,
+    "longitude": -79.89381157702763
+  },
+  {
+    "team": "El Nacional",
+    "stadium": "Estadio Olímpico Atahualpa",
+    "city": "Quito",
+    "address": "Av. 6 De Diciembre Y Naciones Unidas",
+    "fundation": 1951,
+    "dimensions": "105m x 68m",
+    "capacity": 38500,
+    "latitude": -0.17751415,
+    "longitude": -78.47661256776837
+  },
+  {
+    "team": "Liga de Quito",
+    "stadium": "Estadio Rodrigo Paz Delgado",
+    "city": "Quito",
+    "address": "Av. John F. Kennedy 817",
+    "fundation": 1997,
+    "dimensions": "105m x 70m",
+    "capacity": 45575,
+    "latitude": -0.1077231,
+    "longitude": -78.48907681031837
+  },
+  {
+    "team": "Deportivo Cuenca",
+    "stadium": "Estadio Alejandro Serrano Aguilar",
+    "city": "Cuenca",
+    "address": "Av. Del Estadio Y José Peralta",
+    "fundation": 1945,
+    "dimensions": "105m x 68m",
+    "capacity": 16500,
+    "latitude": -2.90662015,
+    "longitude": -79.00516068051374
+  },
+  {
+    "team": "Aucas",
+    "stadium": "Estadio Gonzalo Pozo Ripalda",
+    "city": "Quito",
+    "address": "Av. Rumichaca Y Moromoro",
+    "fundation": 1994,
+    "dimensions": "105m x 68m",
+    "capacity": 18799,
+    "latitude": -0.27889885000000003,
+    "longitude": -78.54617450011804
+  },
+  {
+    "team": "Técnico Universitario",
+    "stadium": "Estadio Bellavista",
+    "city": "Ambato",
+    "address": "Av. Bolivariana Y Azuay",
+    "fundation": 1945,
+    "dimensions": "105m x 70m",
+    "capacity": 20000,
+    "latitude": -1.2449063,
+    "longitude": -78.62311877823508
+  },
+  {
+    "team": "Independiente Del Valle",
+    "stadium": "Estadio Banco Guayaquil",
+    "city": "Sangolquí",
+    "address": "Manuel Quiroga",
+    "fundation": 2021,
+    "dimensions": "105m x 68m",
+    "capacity": 12000,
+    "latitude": -0.34916666666667,
+    "longitude": -78.47055555555
+  },
+  {
+    "team": "Universidad Católica",
+    "stadium": "Estadio Olímpico Atahualpa",
+    "city": "Quito",
+    "address": "Av. 6 De Diciembre Y Naciones Unidas",
+    "fundation": 1951,
+    "dimensions": "105m x 68m",
+    "capacity": 38500,
+    "latitude": -0.17751415,
+    "longitude": -78.47661256776837
+  },
+  {
+    "team": "Cumbayá",
+    "stadium": "Estadio Olímpico Atahualpa",
+    "city": "Quito",
+    "address": "Av. 6 De Diciembre Y Naciones Unidas",
+    "fundation": 1951,
+    "dimensions": "105m x 68m",
+    "capacity": 38500,
+    "latitude": -0.17751415,
+    "longitude": -78.47661256776837
+  },
+  {
+    "team": "Delfín Sporting Club",
+    "stadium": "Estadio Jocay",
+    "city": "Manta",
+    "address": "Av. 113 Y Calle 307",
+    "fundation": 1961,
+    "dimensions": "105m x 68m",
+    "capacity": 22000,
+    "latitude": -0.96402555,
+    "longitude": -80.70276585466515
+  },
+  {
+    "team": "Libertad Fútbol Club",
+    "stadium": "Reina Del Cisne",
+    "city": "Loja",
+    "address": "Av. Emiliano Ortega Y Azuay",
+    "fundation": 1980,
+    "dimensions": "110m x 70m",
+    "capacity": 13359,
+    "latitude": -4.0011431,
+    "longitude": -79.19600800579678
+  },
+  {
+    "team": "Guayaquil City",
+    "stadium": "Estadio Christian Benítez Betancourt",
+    "city": "Guayaquil",
+    "address": "Av. Paseo Del Parque",
+    "fundation": 2014,
+    "dimensions": "105m x 68m",
+    "capacity": 10150,
+    "latitude": -2.1028228,
+    "longitude": -79.9037577638314
+  },
+  {
+    "team": "Olmedo",
+    "stadium": "Estadio Olímpico Fernando Guerrero",
+    "city": "Riobamba",
+    "address": "Av. Carlos Zambrano Y Unidad Nacional",
+    "fundation": 1926,
+    "dimensions": "105m x 70m",
+    "capacity": 18400,
+    "latitude": -1.6662767500000002,
+    "longitude": -78.6596383420747
+  },
+  {
+    "team": "Macará",
+    "stadium": "Estadio Bellavista",
+    "city": "Ambato",
+    "address": "Av. Bolivariana Y Azuay",
+    "fundation": 1945,
+    "dimensions": "105m x 70m",
+    "capacity": 20000,
+    "latitude": -1.2449063,
+    "longitude": -78.62311877823508
+  },
+  {
+    "team": "Mushuc Runa",
+    "stadium": "Mushuc Runa COAC",
+    "city": "Ambato",
+    "address": "Kilómetro 18 Vía Ambato-Guaranda",
+    "fundation": 2018,
+    "dimensions": "105m x 70m",
+    "capacity": 8200,
+    "latitude": -1.30922435,
+    "longitude": -78.72785416689123
+  }
+]

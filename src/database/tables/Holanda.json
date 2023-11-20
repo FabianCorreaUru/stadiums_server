@@ -1,0 +1,132 @@
+[{
+  "team": "Ajax",
+  "stadium": "Johan Cruyff Arena",
+  "city": "Ámsterdam",
+  "address": "Johan Cruijff Boulevard 1, 1101 AX, Ámsterdam",
+  "fundation": 1996,
+  "dimensions": "105m x 68m",
+  "capacity": 55865,
+  "latitude": 52.314353049999994,
+  "longitude": 4.942843089053988
+},
+{
+  "team": "PSV Eindhoven",
+  "stadium": "Philips Stadion",
+  "city": "Eindhoven",
+  "address": "Frederiklaan 10a, Eindhoven",
+  "fundation": 1913,
+  "dimensions": "105m x 68m",
+  "capacity": 35000,
+  "latitude": 51.441748149999995,
+  "longitude": 5.467416381261511
+},
+{
+  "team": "Feyenoord",
+  "stadium": "De Kuip",
+  "city": "Róterdam",
+  "address": "Van Zandvlietplein 13077 AA Róterdam",
+  "fundation": 1937,
+  "dimensions": "107m x 68m",
+  "capacity": 51177,
+  "latitude": 51.8938646,
+  "longitude": 4.523228129966229
+},
+{
+  "team": "AZ Alkmaar",
+  "stadium": "AFAS Stadion",
+  "city": "Alkmaar",
+  "address": "Stadionweg 1, 1812 AZ Alkmaar",
+  "fundation": 2006,
+  "dimensions": "105m x 68m",
+  "capacity": 17023,
+  "latitude": 52.612853099999995,
+  "longitude": 4.742045155256497
+},
+{
+  "team": "Vitesse",
+  "stadium": "GelreDome",
+  "city": "Arnhem",
+  "address": "Batavierenweg 25, Arnhem",
+  "fundation": 1998,
+  "dimensions": "105m x 68m",
+  "capacity": 21248,
+  "latitude": 51.96265475,
+  "longitude": 5.892800684232418
+},
+{
+  "team": "FC Utrecht",
+  "stadium": "Stadion Galgenwaard",
+  "city": "Utrecht",
+  "address": "Herculesplein 241, 3584 AA Utrecht",
+  "fundation": 1982,
+  "dimensions": "106m x 69m",
+  "capacity": 23750,
+  "latitude": 52.07835595,
+  "longitude": 5.1458709457864735
+},
+{
+  "team": "FC Groningen",
+  "stadium": "Euroborg",
+  "city": "Groningen",
+  "address": "Boumaboulevard 41, Groningen",
+  "fundation": 2006,
+  "dimensions": "104m x 68m",
+  "capacity": 22579,
+  "latitude": 53.20622745,
+  "longitude": 6.591465740943196
+},
+{
+  "team": "Heerenveen",
+  "stadium": "Abe Lenstra Stadion",
+  "city": "Heerenveen",
+  "address": "Abe Lenstra boulevard 23, Heerenveen",
+  "fundation": 1920,
+  "dimensions": "120m x 80m",
+  "capacity": 26800,
+  "latitude": 52.9586734,
+  "longitude": 5.936167538889133
+},
+{
+  "team": "Sparta Rotterdam",
+  "stadium": "Het Kasteel",
+  "city": "Rotterdam",
+  "address": "Spartapark Noord 1, 3027 VW Rotterdam, Netherlands",
+  "fundation": 1916,
+  "dimensions": "101m x 65m",
+  "capacity": 11.026,
+  "latitude": 51.9194555,
+  "longitude": 4.433550650698857
+},
+{
+  "team": "Twente",
+  "stadium": "De Grolsch Veste",
+  "city": "Enschede",
+  "address": "Colosseum 65, 7521 PP Enschede",
+  "fundation": 1998,
+  "dimensions": "105m x 68m",
+  "capacity": 30205,
+  "latitude": 52.23644315,
+  "longitude": 6.837759739391447
+},
+{
+  "team": "NEC Nijmegen",
+  "stadium": "Goffertstadion",
+  "city": "Nijmegen",
+  "address": "Goffertstadion Stadionplein 1 6532 AJ Nijmegen",
+  "fundation": 1939,
+  "dimensions": "105m x 68m",
+  "capacity": 12500,
+  "latitude": 51.82248475,
+  "longitude": 5.8371565043141596
+},
+{
+  "team": "Heracles Almelo",
+  "stadium": "Erve Asito",
+  "city": "Almelo",
+  "address": "Van Riemsdijkplein 1, 7606 JA Almelo",
+  "fundation": 1999,
+  "dimensions": "105m x 68m",
+  "capacity": 12080,
+  "latitude": 52.33883295,
+  "longitude": 6.650828911919621
+}]

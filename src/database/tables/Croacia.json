@@ -1,0 +1,133 @@
+[{
+  "team": "Dinamo Zagreb",
+  "stadium": "Stadion Maksimir",
+  "city": "Zagreb",
+  "address": "Maksimirska 128, Zagreb",
+  "fundation": 1912,
+  "dimensions": "105m x 68m",
+  "capacity": 40000,
+  "latitude": 45.8186879,
+  "longitude": 16.01793755418379
+},
+{
+  "team": "Hajduk Split",
+  "stadium": "Stadion Poljud",
+  "city": "Split",
+  "address": "8 Mediteranskih Igara 2, 21000, Split",
+  "fundation": 1979,
+  "dimensions": "105m x 68m",
+  "capacity": 33987,
+  "latitude": 43.51953865,
+  "longitude": 16.4319183942395
+},
+{
+  "team": "NK Osijek",
+  "stadium": "Stadion Gradski Vrt",
+  "city": "Osijek",
+  "address": "Ul. Woodrowa Wilsona 2, 31000, Osijek",
+  "fundation": 1947,
+  "dimensions": "106m x 68m",
+  "capacity": 22050,
+  "latitude": 45.54499665,
+  "longitude": 18.69540766960921
+},
+{
+  "team": "HNK Rijeka",
+  "stadium": "Stadion Rujevica",
+  "city": "Rijeka",
+  "address": "Rujevica 10, 51000, Rijeka",
+  "fundation": 2015,
+  "dimensions": "105m x 68m",
+  "capacity": 8279,
+  "latitude": 45.34768135,
+  "longitude": 14.402144095301196
+},
+{
+  "team": "NK Zagreb",
+  "stadium": "Stadion Kranjčevićeva",
+  "city": "Zagreb",
+  "address": "Kranjčevićeva Ulica 2, 10000 Zagreb",
+  "fundation": 1921,
+  "dimensions": "105m x 68m",
+  "capacity": 8850,
+  "latitude": 45.804571499999994,
+  "longitude": 15.960761441277915
+},
+{
+  "team": "NK Lokomotiva Zagreb",
+  "stadium": "Stadion Kranjčevićeva",
+  "city": "Zagreb",
+  "address": "Kranjčevićeva Ulica 2, 10000 Zagreb",
+  "fundation": 1921,
+  "dimensions": "105m x 68m",
+  "capacity": 8850,
+  "latitude": 45.804571499999994,
+  "longitude": 15.960761441277915
+},
+{
+  "team": "HNK Cibalia",
+  "stadium": "Stadion HNK Cibalia",
+  "city": "Vinkovci",
+  "address": "Ulica Kralja Zvonimira 1, 32100 Vinkovci",
+  "fundation": 1966,
+  "dimensions": "105m x 68m",
+  "capacity": 9958,
+  "latitude": 45.2837349,
+  "longitude": 18.797281318478845
+},
+{
+  "team": "NK Slaven Belupo",
+  "stadium": "Stadion Ivan Kušek-Apaš",
+  "city": "Koprivnica",
+  "address": "Zvonimirova 4, Koprivnica",
+  "fundation": 1996,
+  "dimensions": "105m x 68m",
+  "capacity": 3205,
+  "latitude": 46.1668033,
+  "longitude": 16.835081042335467
+},
+{
+  "team": "NK Inter Zaprešić",
+  "stadium": "Stadion ŠRC Zaprešić",
+  "city": "Zaprešić",
+  "address": "Ul. Vladimira Novaka 25, 10290, Zaprešić",
+  "fundation": 1987,
+  "dimensions": "105m x 68m",
+  "capacity": 4528,
+  "latitude": 45.8647548,
+  "longitude": 15.7998926066631
+},
+{
+  "team": "Istra 1961",
+  "stadium": "Stadion Aldo Drosina",
+  "city": "Pula",
+  "address": "Ul. Mate Balote 11, 52100, Pula",
+  "fundation": 2010,
+  "dimensions": "105m x 68m",
+  "capacity": 9500,
+  "latitude": 44.86167925,
+  "longitude": 13.85134572315878
+},
+{
+  "team": "NK Varaždin",
+  "stadium": "Stadion Anđelko Herjavec",
+  "city": "Varaždin",
+  "address": "Zagrebačka Ul. 94, 42000, Varaždin",
+  "fundation": 1931,
+  "dimensions": "105m x 68m",
+  "capacity": 10800,
+  "latitude": 46.29343355,
+  "longitude": 16.34435510437972
+},
+{
+  "team": "HNK Gorica",
+  "stadium": "Stadion Radnik",
+  "city": "Velika Gorica",
+  "address": "Ul. Hrvatske Bratske Zajednice 80, 10410, Velika Gorica",
+  "fundation": 1987,
+  "dimensions": "105m x 68m",
+  "capacity": 8000,
+  "latitude": 45.7239895,
+  "longitude": 16.073115641693107
+}
+]

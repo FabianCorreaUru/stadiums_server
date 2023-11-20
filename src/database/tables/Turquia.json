@@ -1,0 +1,132 @@
+[{
+  "team": "Galatasaray",
+  "stadium": "Nef Stadyumu",
+  "city": "Estambul",
+  "address": "Huzur Mh., Metin Oktay Caddesi, 34386",
+  "fundation": 2011,
+  "dimensions": "105m x 68m",
+  "capacity": 52280,
+  "latitude": 41.103388888889,
+  "longitude": 28.99103795029205
+},
+{
+  "team": "Fenerbahçe",
+  "stadium": "Saracoğlu Stadyumu",
+  "city": "Estambul",
+  "address": "Şükrü Saracoğlu Stadyumu, Bağdat Cad, Kızıltoprak, No: 2, 34724",
+  "fundation": 1907,
+  "dimensions": "105m x 68m",
+  "capacity": 55509,
+  "latitude": 40.98758065,
+  "longitude": 29.03697729928941
+},
+{
+  "team": "Besiktas",
+  "stadium": "Vodafone Park",
+  "city": "Estambul",
+  "address": "Vişnezade, Kadırgalar Cd. No: 1, 34357 Beşiktaş",
+  "fundation": 2016,
+  "dimensions": "105m x 68m",
+  "capacity": 42000,
+  "latitude": 41.03944355,
+  "longitude": 28.994411799999998
+},
+{
+  "team": "Trabzonspor",
+  "stadium": "Şenol Güneş Stadyumu",
+  "city": "Trebisonda",
+  "address": "Ulus, Trabzon TR, 34537 Büyükçekmece",
+  "fundation": 2016,
+  "dimensions": "105m x 68m",
+  "capacity": 40782,
+  "latitude": 37.1243767,
+  "longitude": 37.38229175425482
+},
+{
+  "team": "Ankaragücü",
+  "stadium": "Stadionul Eryaman",
+  "city": "Ankara",
+  "address": "Eryaman, 259. Sk. No:4, 06824 Etimesgut/Ankara",
+  "fundation": 2019,
+  "dimensions": "105 x 68m",
+  "capacity": 22000,
+  "latitude": 39.9799972,
+  "longitude": 32.6139051
+},
+{
+  "team": "Göztepe",
+  "stadium": "Gürsel Aksel Stadium",
+  "city": "Esmirna",
+  "address": "Mehmet Ali Akman, İnönü Cd. No: 640, 35290 Konak/İzmir",
+  "fundation": 2020,
+  "dimensions": "105m x 68m",
+  "capacity": 25035,
+  "latitude": 38.3969,
+  "longitude": 27.0757
+},
+{
+  "team": "Antalyaspor",
+  "stadium": "Antalya Arena",
+  "city": "Antalya",
+  "address": "Meltem, 3802. Sk., 07030 Muratpaşa/Antalya",
+  "fundation": 2015,
+  "dimensions": "105m x 68m",
+  "capacity": 33000,
+  "latitude": 36.888,
+  "longitude": 30.668
+},
+{
+  "team": "Kayserispor",
+  "stadium": "RHG Enertürk Enerji",
+  "city": "Kayseri",
+  "address": "Osman Kavuncu, Osman Kavuncu Blv. No:271/A, 38060 Melikgazi/Kayseri",
+  "fundation": 2009,
+  "dimensions": "105 x 68m",
+  "capacity": 32864,
+  "latitude": 38.736944444444,
+  "longitude": 35.423055555556
+},
+{
+  "team": "Denizlispor",
+  "stadium": "Denizli Atatürk Stadium",
+  "city": "Denizli",
+  "address": "Kuşpınar, 20150 Pamukkale/Denizli",
+  "fundation": 1950,
+  "dimensions": "105m x 68m",
+  "capacity": 18745,
+  "latitude": 37.7659496,
+  "longitude": 29.08239004162046
+},
+{
+  "team": "Konyaspor",
+  "stadium": "Konya Buyuksehir Stadium",
+  "city": "Konya",
+  "address": "Parsana, Pars Until Maher, Kaletaş Cd., 42250 Selçuklu/Konya",
+  "fundation": 2011,
+  "dimensions": "105m x 68m",
+  "capacity": 40000,
+  "latitude": 40.21084035,
+  "longitude": 29.00946927908773
+},
+{
+  "team": "Rizespor",
+  "stadium": "Çaykur Didi Stadium",
+  "city": "Rize",
+  "address": "İslampaşa, Menderes Blv. Rizespor Stadyumu, 53020 Rize Merkez/Rize",
+  "fundation": 2009,
+  "dimensions": "105m x 68m",
+  "capacity": 15558,
+  "latitude": 41.042,
+  "longitude": 40.5732
+},
+{
+  "team": "Sivasspor",
+  "stadium": "Sivas Arena",
+  "city": "Sivas",
+  "address": "Gültepe, Mecnun Otyakmaz Cd No: 4, 58058 Sivas Merkez/Sivas",
+  "fundation": 2013,
+  "dimensions": "105 x 68m",
+  "capacity": 27532,
+  "latitude": 39.7285,
+  "longitude": 36.9841
+}]

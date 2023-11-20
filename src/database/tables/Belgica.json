@@ -1,0 +1,132 @@
+[{
+  "team": "Brujas",
+  "stadium": "Jan Breydel",
+  "city": "Brujas",
+  "address": "Olympialaan 74, Brujas",
+  "fundation": 1975,
+  "dimensions": "107m x 68m",
+  "capacity": 29472,
+  "latitude": 51.1933461,
+  "longitude": 3.1805852942406156
+},
+{
+  "team": "Anderlecht",
+  "stadium": "Constant Vanden Stock Stadium",
+  "city": "Anderlecht",
+  "address": "Av. Théo Verbeecklaan 2, 1070, Anderlecht",
+  "fundation": 1917,
+  "dimensions": "107m x 68m",
+  "capacity": 21500,
+  "latitude": 50.83414335,
+  "longitude": 4.296927910269964
+},
+{
+  "team": "Standard Lieja",
+  "stadium": "Maurice Dufrasne",
+  "city": "Lieja",
+  "address": "Rue De La Centrale 2, Lieja",
+  "fundation": 1909,
+  "dimensions": "106m x 66m",
+  "capacity": 30143,
+  "latitude": 50.60987525,
+  "longitude": 5.543513093227944
+},
+{
+  "team": "KRC Genk",
+  "stadium": "Cegeka Arena",
+  "city": "Genk",
+  "address": "Stadionplein 4, Genk",
+  "fundation": 1988,
+  "dimensions": "105m x 68m",
+  "capacity": 24956,
+  "latitude": 51.0049563,
+  "longitude": 5.534188115172261
+},
+  {
+  "team": "KAA Gent",
+  "stadium": "Ghelamco Arena",
+  "city": " Gante",
+  "address": "Ottergemsesteenweg Zuid 808, Gante",
+  "fundation": 2013,
+  "dimensions": "105m x 68m",
+  "capacity": 20000,
+  "latitude": 51.01607545,
+  "longitude": 3.7325262840243267
+},
+{
+  "team": "Royal Antwerp FC",
+  "stadium": "Bosuilstadion",
+  "city": " Amberes",
+  "address": "Oude Bosuilbaan 54, 2100, Amberes",
+  "fundation": 1923,
+  "dimensions": "105m x 68m",
+  "capacity": 16700,
+  "latitude": 51.2325696,
+  "longitude": 4.471772213133182
+},
+{
+  "team": "RFC Lieja",
+  "stadium": "Stade De Rocourt",
+  "city": "Lieja",
+  "address": "Rue De La Tonne 80, 4430, Lieja",
+  "fundation": 1892,
+  "dimensions": "110m x 70m",
+  "capacity": 5000,
+  "latitude": 50.660296900000006,
+  "longitude": 5.551856139936197
+},
+{
+  "team": "RKV Malinas",
+  "stadium": "Achter De Kazerne",
+  "city": "Malinas",
+  "address": "Kleine Nieuwedijkstraat 53, 2800 Malinas",
+  "fundation": 1911,
+  "dimensions": "105m x 68m",
+  "capacity": 16672,
+  "latitude": 51.037222,
+  "longitude": 4.486389
+},
+{
+  "team": "Charleroi SC",
+  "stadium": "Stade Du Pays De Charleroi",
+  "city": "Charleroi",
+  "address": "Bd Zoé Drion 19, 6000 Charleroi",
+  "fundation": 1939,
+  "dimensions": "105m x 68m",
+  "capacity": 25000,
+  "latitude": 50.4146091,
+  "longitude": 4.453734529500544
+},
+{
+  "team": "Union Saint-Gilloise",
+  "stadium": "Stade Joseph Marien",
+  "city": "Bruselas",
+  "address": "Chau. De Bruxelles 223, 1190 Forest, Bruselas",
+  "fundation": 1919,
+  "dimensions": "105 x 68m",
+  "capacity": 9000,
+  "latitude": 50.8179295,
+  "longitude": 4.329508218326241
+},
+{
+  "team": "Cercle Brugge K. S. V.",
+  "stadium": "Jan Breydelstadion",
+  "city": "Brujas",
+  "address": "Koning Leopold III-laan 50, 8200, Brujas",
+  "fundation": 1999,
+  "dimensions": "105 x 70m",
+  "capacity": 30000,
+  "latitude": 51.1933461,
+  "longitude": 3.1805852942406156
+},
+{
+  "team": "KV Kortrijk",
+  "stadium": "Guldensporen Stadion",
+  "city": "Cortrique",
+  "address": "Meensesteenweg 84a, 8500, Cortrique",
+  "fundation": 1947,
+  "dimensions": "106m x 66m",
+  "capacity": 9400,
+  "latitude": 50.8237753,
+  "longitude": 3.2644458
+}]

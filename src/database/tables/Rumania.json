@@ -1,0 +1,133 @@
+[{
+  "team": "FCSB",
+  "stadium": "Arena Națională",
+  "city": "Bucharest",
+  "address": "Bulevardul Basarabia 37-39, București 022103",
+  "fundation": 2011,
+  "dimensions": "105m x 68m",
+  "capacity": 55635,
+  "latitude": 44.43724095,
+  "longitude": 26.152495717048993
+},
+{
+  "team": "Dinamo Bucarest",
+  "stadium": "Arena Națională",
+  "city": "Bucharest",
+  "address": "Bulevardul Basarabia 37-39, București 022103",
+  "fundation": 2011,
+  "dimensions": "105m x 68m",
+  "capacity": 55635,
+  "latitude": 44.43724095,
+  "longitude": 26.152495717048993
+},
+{
+  "team": "CFR Cluj",
+  "stadium": "Stadionul Dr. Constantin Rădulescu",
+  "city": "Cluj-Napoca",
+  "address": "Strada Romulus Vuia 23, Cluj-Napoca 400214",
+  "fundation": 1973,
+  "dimensions": "105m x 68m",
+  "capacity": 25000,
+  "latitude": 46.7797675,
+  "longitude": 23.57776117843527
+},
+{
+  "team": "Rapid De Bucarest",
+  "stadium": "Superbet Arena - Giulești",
+  "city": "Bucarest",
+  "address": "Calea Giulești 18, București 063456",
+  "fundation": 2022,
+  "dimensions": "105m x 68m",
+  "capacity": 14050,
+  "latitude": 44.45586095,
+  "longitude": 26.056966527105352
+},
+{
+  "team": "Universitatea Craiova",
+  "stadium": "Stadionul Ion Oblemenco",
+  "city": "Craiova",
+  "address": "Bulevardul Ilie Balaci 8, Craiova 200182",
+  "fundation": 2017,
+  "dimensions": "105m x 68m",
+  "capacity": 30983,
+  "latitude": 44.31403015,
+  "longitude": 23.784261374396
+},
+{
+  "team": "UTA Arad",
+  "stadium": "Stadionul Francisc Von Neumann",
+  "city": "Arad",
+  "address": "Calea Aurel Vlaicu 58, Arad 310350",
+  "fundation": 1946,
+  "dimensions": "105 x 68m",
+  "capacity": 12700,
+  "latitude": 46.192611150000005,
+  "longitude": 21.311920032625856
+},
+{
+  "team": "Petrolul Ploiești",
+  "stadium": "Stadionul Ilie Oană",
+  "city": "Ploiești",
+  "address": "Strada Stadionului 26, Ploiești",
+  "fundation": 1924,
+  "dimensions": "105m x 68m",
+  "capacity": 15500,
+  "latitude": 44.9405339,
+  "longitude": 26.033530865706965
+},
+{
+  "team": "FC Argeș Pitești",
+  "stadium": "Stadionul Nicolae Dobrin",
+  "city": "Pitești",
+  "address": "Aleea Stadionului, Pitești",
+  "fundation": 1964,
+  "dimensions": "105m x 68m",
+  "capacity": 16500,
+  "latitude": 44.84665125,
+  "longitude": 24.86635531702413
+},
+{
+  "team": "Astra Giurgiu",
+  "stadium": "Stadionul Marin Anastasovici",
+  "city": "Giurgiu",
+  "address": "Strada Unirii 8, Giurgiu",
+  "fundation": 1934,
+  "dimensions": "105m x 68m",
+  "capacity": 8500,
+  "latitude": 43.89612895,
+  "longitude": 25.981319497196697
+},
+{
+  "team": "Farul Constanța",
+  "stadium": "Stadionul Farul",
+  "city": "Constanța",
+  "address": "Str. Primăverii, Nr. 2, Constanța",
+  "fundation": 1957,
+  "dimensions": "105 x 68m",
+  "capacity": 15520,
+  "latitude": 44.197278,
+  "longitude": 28.639333
+},
+{
+  "team": "FC Hermannstadt",
+  "stadium": "Stadionul Municipal",
+  "city": "Sibiu",
+  "address": "Aleea Mihai Eminescu, Sibiu",
+  "fundation": 1927,
+  "dimensions": "105m x 68m",
+  "capacity": 14200,
+  "latitude":45.783056,
+  "longitude": 24.143611
+},
+{
+  "team": "Universitatea Cluj",
+  "stadium": "Stadionul Cluj Arena",
+  "city": "Cluj-Napoca",
+  "address": "Aleea Stadionului 2, Cluj-Napoca 400375",
+  "fundation": 2011,
+  "dimensions": "105 x 68m",
+  "capacity": 30335,
+  "latitude": 46.7685779,
+  "longitude": 23.572453173223224
+}
+]

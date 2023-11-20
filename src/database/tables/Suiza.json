@@ -1,0 +1,132 @@
+[{
+    "team": "Grasshoppers",
+    "stadium": "Letzigrund",
+    "city": "Zúrich",
+    "address": "Badenerstrasse 500, 8048 Zürich",
+    "fundation": 1925,
+    "dimensions": "105m x 68m",
+    "capacity": 25000,
+    "latitude": 47.38282055,
+    "longitude": 8.50373866657526
+},
+{
+    "team": "Basilea",
+    "stadium": "St. Jakob Park",
+    "city": "Basilea",
+    "address": "St. Jakobs-Strasse 395. 4052 Basilea",
+    "fundation": 2001,
+    "dimensions": "105m x 68m",
+    "capacity": 38512,
+    "latitude": 47.541636249999996,
+    "longitude": 7.620116373282938
+},
+{
+    "team": "Young Boys",
+    "stadium": "Stadion Wankdorf",
+    "city": "Berna",
+    "address": "Papiermühlestrasse 71, 3014 Berna",
+    "fundation": 2005,
+    "dimensions": "105m x 68m",
+    "capacity": 32000,
+    "latitude": 46.963104200000004,
+    "longitude": 7.464863780575693
+},
+{
+    "team": "Servette",
+    "stadium": "Stade De Genève",
+    "city": "Lancy",
+    "address": "Rte Des Jeunes 16, 1212 Lancy",
+    "fundation": 2003,
+    "dimensions": "105m x 68m",
+    "capacity": 30084,
+    "latitude": 46.17782645,
+    "longitude": 6.127408681010735
+},
+{
+    "team": "Zürich",
+    "stadium": "Letzigrund",
+    "city": "Zürich",
+    "address": "Badenerstrasse 500, 8048 Zürich",
+    "fundation": 1925,
+    "dimensions": "105m x 68m",
+    "capacity": 25000,
+    "latitude": 47.38282055,
+    "longitude": 8.50373866657526
+},
+{
+    "team": "Lausanne-Sport",
+    "stadium": "Stade De La Tuilière",
+    "city": "Lausana",
+    "address": "Rte De Romanel 10, 1018 Lausanne",
+    "fundation": 2020,
+    "dimensions": "105m x 68m",
+    "capacity": 12500,
+    "latitude": 46.543599099999994,
+    "longitude": 6.621973941959913
+},
+{
+    "team": "FC Lugano",
+    "stadium": "Stadio Comunale Di Cornaredo",
+    "city": "Lugano",
+    "address": "Via Trevano 100, 6900 Lugano",
+    "fundation": 1951,
+    "dimensions": "105m x 68m",
+    "capacity": 15000,
+    "latitude": 46.0238339,
+    "longitude": 8.96145280366909
+},
+{
+    "team": "FC Sion",
+    "stadium": "Stade De Tourbillon",
+    "city": "Sion",
+    "address": "Rue Des Echutes 38, 1950 Sion",
+    "fundation": 1968,
+    "dimensions": "105m x 68m",
+    "capacity": 16000,
+    "latitude": 46.233412349999995,
+    "longitude": 7.376009257724968
+},
+{
+    "team": "FC St. Gallen",
+    "stadium": "Kybunpark",
+    "city": "San Galo",
+    "address": "Zürcherstrasse 464, 9015 San Galo",
+    "fundation": 2008,
+    "dimensions": "105m x 68m",
+    "capacity": 19694,
+    "latitude": 47.40832315,
+    "longitude": 9.30563408402569
+},
+{
+    "team": "FC Winterthur",
+    "stadium": "Stadion Schützenwiese",
+    "city": "Winterthur",
+    "address": "Rennweg 5, 8400 Winterthur",
+    "fundation": 1900,
+    "dimensions": "105m x 68m",
+    "capacity": 8500,
+    "latitude": 47.500754549999996,
+    "longitude": 8.718131660444186
+},
+{
+    "team": "FC Lucerna",
+    "stadium": "Swissporarena",
+    "city": "Lucerna",
+    "address": "Horwerstrasse 91, 6005 Lucerna",
+    "fundation": 2011,
+    "dimensions": "105m x 68m",
+    "capacity": 17800,
+    "latitude": 47.03289095,
+    "longitude": 8.305138257787958
+},
+{
+    "team": "Neuchâtel Xamax FCS",
+    "stadium": "Stade De La Maladière",
+    "city": "Neuchâtel",
+    "address": "Rue De La Pierre-à-Mazel 10, 2000 Neuchâtel",
+    "fundation": 1924,
+    "dimensions": "105m x 68m",
+    "capacity": 11997,
+    "latitude": 46.9952,
+    "longitude": 6.944376450000888
+}]

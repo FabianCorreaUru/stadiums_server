@@ -1,0 +1,132 @@
+[{
+  "team": "Olympiacos",
+  "stadium": "Estadio Georgios Karaiskakis",
+  "city": "Piraeus",
+  "address": "Καραολή και Δημητρίου, Sofianopoulou και",
+  "fundation": 2004,
+  "dimensions": "105m x 68m",
+  "capacity": 33334,
+  "latitude": 37.946169,
+  "longitude": 23.664536
+},
+{
+  "team": "Panathinaikos",
+  "stadium": "Estadio Olímpico De Atenas",
+  "city": "Atenas",
+  "address": "Leof. Olimpionikou Spirou Loui, Marousi 151 23",
+  "fundation": 1908,
+  "dimensions": "105m x 68m",
+  "capacity": 71030,
+  "latitude": 37.96843565,
+  "longitude": 23.740398366417093
+},
+{
+  "team": "AEK Atenas",
+  "stadium": "Agia Sofía",
+  "city": "Atenas",
+  "address": "Fokon 11, Nea Filadelfia 143 41",
+  "fundation": 2022,
+  "dimensions": "105m x 68m",
+  "capacity": 32500,
+  "latitude": 38.03715,
+  "longitude": 23.74154
+},
+{
+  "team": "PAOK Salónica FC",
+  "stadium": "Estadio La Tumba",
+  "city": "Thessaloniki",
+  "address": "Mikras Asias, 54351 Thessaloniki",
+  "fundation": 1926,
+  "dimensions": "105m x 68m",
+  "capacity": 290000,
+  "latitude": 40.6138703,
+  "longitude": 22.972365548788616
+},
+{
+  "team": "Aris Salónica FC",
+  "stadium": "Kleanthis Vikelidis",
+  "city": "Thessaloniki",
+  "address": "Al. Papanastasiou 154, Thessaloniki 542 49",
+  "fundation": 1951,
+  "dimensions": "105m x 68m",
+  "capacity": 22800,
+  "latitude": 40.600115599999995,
+  "longitude": 22.969489630874897
+},
+{
+  "team": "PAS Giannina",
+  "stadium": "Estadio Zosimades",
+  "city": "Ioannina",
+  "address": "Michailidi 14, Ioannina 453 33",
+  "fundation": 1952,
+  "dimensions": "105m x 68m",
+  "capacity": 7500,
+  "latitude": 39.667570749999996,
+  "longitude": 20.848702151899445
+},
+{
+  "team": "AE Larisa",
+  "stadium": "AEL Arena",
+  "city": "Larissa",
+  "address": "Periferiakos Larisas, Larisa 411 10",
+  "fundation": 2010,
+  "dimensions": "100m x 70m",
+  "capacity": 17118,
+  "latitude": 39.6153982,
+  "longitude": 22.40012114349198
+},
+{
+  "team": "OFI Creta",
+  "stadium": "Theodoros Vardinogiannis",
+  "city": "Heraklion",
+  "address": "Heraclión 713 03",
+  "fundation": 1951,
+  "dimensions": "105m x 68m",
+  "capacity": 8500,
+  "latitude": 37.50262975,
+  "longitude": 22.38855351657014
+},
+{
+  "team": "Panserraikos",
+  "stadium": "Serres Municipal Stadium",
+  "city": "Serres",
+  "address": "Redestou 42, Serres 621 25",
+  "fundation": 1989,
+  "dimensions": "105m x 68m",
+  "capacity": 9500,
+  "latitude": 41.084664000000004,
+  "longitude": 23.546552788729333
+},
+{
+  "team": "Atromitos",
+  "stadium": "Estadio Peristeri",
+  "city": "Peristeri",
+  "address": "Kresnas 82, Peristeri 121 31",
+  "fundation": 1923,
+  "dimensions": "105m x 68m",
+  "capacity": 10200,
+  "latitude": 38.0050554,
+  "longitude": 23.689859113883102
+},
+{
+  "team": "Panetolikos",
+  "stadium": "Estadio Panetolikos",
+  "city": "Agrinio",
+  "address": "Prousiotissis 15, Agrinio 301 33",
+  "fundation": 1926,
+  "dimensions": "105m x 68m",
+  "capacity": 7000,
+  "latitude": 38.63010045,
+  "longitude": 21.41182922194278
+},
+{
+  "team": "Volos NFC",
+  "stadium": "Estadio Panthessaliko",
+  "city": "Volos",
+  "address": "Πανθεσσαλικό Στάδιο, Volos 384 46",
+  "fundation": 2017,
+  "dimensions": "105m x 68m",
+  "capacity": 1500,
+  "latitude": 39.3873733,
+  "longitude": 22.931446957283118
+}]

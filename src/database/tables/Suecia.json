@@ -1,0 +1,132 @@
+[{
+  "team": "Malmö FF",
+  "stadium": "Eleda Stadion",
+  "city": "Malmö",
+  "address": "Eric Perssons Väg 31, 217 62 Malmö",
+  "fundation": 2009,
+  "dimensions": "105m x 68m",
+  "capacity": 24000,
+  "latitude": 55.5837345,
+  "longitude": 12.987735040108547
+},
+{
+  "team": "IFK Göteborg",
+  "stadium": "Gamla Ullevi",
+  "city": "Gotemburgo",
+  "address": "Ullevigatan 5, 411 39 Gotemburgo",
+  "fundation": 2009,
+  "dimensions": "105m x 68m",
+  "capacity": 18800,
+  "latitude": 57.70626095,
+  "longitude": 11.9801227571925
+},
+{
+  "team": "Örgryte IS",
+  "stadium": "Gamla Ullevi",
+  "city": "Gotemburgo",
+  "address": "Ullevigatan 5, 411 39 Gotemburgo",
+  "fundation": 2009,
+  "dimensions": "105m x 68m",
+  "capacity": 18000,
+  "latitude": 57.70626095,
+  "longitude": 11.9801227571925
+},
+{
+  "team": "IFK Norrköping",
+  "stadium": "Norrköping Idrottspark",
+  "city": "Norrköping",
+  "address": "Ektorpsgatan 1, 602 37 Norrköping",
+  "fundation": 1904,
+  "dimensions": "105m x 68m",
+  "capacity": 19414,
+  "latitude": 58.584666666667,
+  "longitude": 16.173055555556
+},
+{
+  "team": "AIK",
+  "stadium": "Friends Arena",
+  "city": "Estocolmo",
+  "address": "Råsta Strandväg 1, 169 56 Solna",
+  "fundation": 2012,
+  "dimensions": "105m x 68m",
+  "capacity": 54400,
+  "latitude": 59.37250385,
+  "longitude": 18.00166495920144
+},
+{
+  "team": "Djurgårdens IF",
+  "stadium": "Tele2 Arena",
+  "city": "Estocolmo",
+  "address": "Arenaslingan 14, 121 77 Johanneshov",
+  "fundation": 2013,
+  "dimensions": "105m x 68m",
+  "capacity": 33000,
+  "latitude": 59.291032799999996,
+  "longitude": 18.084542679263663
+},
+{
+  "team": "Helsingborgs IF",
+  "stadium": "Olympia",
+  "city": "Helsingborg",
+  "address": "Mellersta Stenbocksgatan, 254 37 Helsingborg",
+  "fundation": 1898,
+  "dimensions": "105m x 68m",
+  "capacity": 16673,
+  "latitude": 56.049990699999995,
+  "longitude": 12.707755604461921
+},
+{
+  "team": "IF Elfsborg",
+  "stadium": "Borås Arena",
+  "city": "Borås",
+  "address": "Ålgårdsvägen 16, 506 30 Borås",
+  "fundation": 2005,
+  "dimensions": "105m x 68m",
+  "capacity": 17800,
+  "latitude": 57.734400050000005,
+  "longitude": 12.934765647539754
+},
+{
+  "team": "Halmstads BK",
+  "stadium": "Örjans Vall",
+  "city": "Halmstad",
+  "address": "Laxövägen 3, 302 31 Halmstad",
+  "fundation": 1922,
+  "dimensions": "105m x 68m",
+  "capacity": 15500,
+  "latitude": 56.684903649999995,
+  "longitude": 12.867997294801276
+},
+{
+  "team": "Hammarby IF",
+  "stadium": "Tele2 Arena",
+  "city": "Estocolmo",
+  "address": "Arenaslingan 14, 121 77 Johanneshov",
+  "fundation": 2013,
+  "dimensions": "105m x 68m",
+  "capacity": 33000,
+  "latitude": 59.291032799999996,
+  "longitude": 18.084542679263663
+},
+{
+  "team": "Kalmar FF",
+  "stadium": "Guldfågeln Arena",
+  "city": "Kalmar",
+  "address": "Trångsundsvägen 40, 393 56 Kalmar",
+  "fundation": 2011,
+  "dimensions": "105m x 68m",
+  "capacity": 12500,
+  "latitude": 56.6912863,
+  "longitude": 16.31401156846372
+},
+{
+  "team": "Östersunds FK",
+  "stadium": "Jämtkraft Arena",
+  "city": "Östersund",
+  "address": "Arenavägen 23, 831 32 Östersund",
+  "fundation": 2007,
+  "dimensions": "105m x 65m",
+  "capacity": 8466,
+  "latitude": 63.19491865,
+  "longitude": 14.65604063880691
+}]

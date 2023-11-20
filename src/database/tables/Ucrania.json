@@ -1,0 +1,132 @@
+[{
+    "team": "Dinamo Kiev",
+    "stadium": "Olímpico De Kiev",
+    "city": "Kiev",
+    "address": "Velyka Vasylkivska St, 55, Kiev",
+    "fundation": 1923,
+    "dimensions": "105m x 68m",
+    "capacity": 70050,
+    "latitude": 50.43349695,
+    "longitude": 30.52134861058071
+},
+{
+    "team": "Shajtar Donetsk",
+    "stadium": "Olímpico De Kiev",
+    "city": "Kiev",
+    "address": "Velyka Vasylkivska St, 55, Kiev",
+    "fundation": 1923,
+    "dimensions": "105m x 68m",
+    "capacity": 70050,
+    "latitude": 50.43349695,
+    "longitude": 30.52134861058071
+},
+{
+    "team": "Tavriya Simferopol",
+    "stadium": "Lokomotiv",
+    "city": "Simferópol",
+    "address": "Pushkina St, 46, Simferópol",
+    "fundation": 1967,
+    "dimensions": "104m x 67m",
+    "capacity": 19978,
+    "latitude": 44.943611,
+    "longitude": 34.089722
+},
+{
+    "team": "FK Dnipro",
+    "stadium": "Dnipro Arena",
+    "city": "Dnipró",
+    "address": "Khersons'ka St, 7, Dnipro, Dnipropetrovs'ka Oblast",
+    "fundation": 2008,
+    "dimensions": "105m x 68m",
+    "capacity": 31003,
+    "latitude": 48.46026225,
+    "longitude": 35.03237232457031
+},
+{
+    "team": "Karpaty Lviv",
+    "stadium": "Ukrayina",
+    "city": "Leópolis",
+    "address": "L'viv, L'vivs'ka Oblast",
+    "fundation": 1963,
+    "dimensions": "105m x 68m",
+    "capacity": 28051,
+    "latitude": 49.819234,
+    "longitude": 24.048193
+},
+{
+    "team": "Chornomorets Odessa",
+    "stadium": "Tsentralnyi-Chernomorets",
+    "city": "Odesa",
+    "address": "Черное море, Odesa, Odesa Oblast",
+    "fundation": 1936,
+    "dimensions": "105m x 68m",
+    "capacity": 34164,
+    "latitude": 46.480556,
+    "longitude": 30.755556
+},
+{
+    "team": "Vorskla Poltava",
+    "stadium": "Butovsky Vorskla",
+    "city": "Poltava",
+    "address": "Nezalezhnosti Square, 16, Poltava, Poltavs'ka Oblast",
+    "fundation": 1951,
+    "dimensions": "104m x 68m",
+    "capacity": 24795,
+    "latitude": 49.594833,
+    "longitude": 34.549444
+},
+{
+    "team": "Metalist Járkov",
+    "stadium": "Metalist",
+    "city": "Járkov",
+    "address": "Plekhanivs'ka St, 65, Kharkiv, Kharkivs'ka Oblast",
+    "fundation": 1926,
+    "dimensions": "105m x 68m",
+    "capacity": 40003,
+    "latitude": 49.980858,
+    "longitude": 36.261703
+},
+{
+    "team": "Kryvbas Kryvyi Rih",
+    "stadium": "Metalurg",
+    "city": "San Galo",
+    "address": "Metalurhiv Ave, 5 Kryvyi Rih Dnipropetrovsk Oblast",
+    "fundation": 1970,
+    "dimensions": "105m x 68m",
+    "capacity": 29734,
+    "latitude": 47.895118,
+    "longitude": 33.392462
+},
+{
+    "team": "Zoryá Lugansk",
+    "stadium": "Slavutych-Arena",
+    "city": "Zaporiyia",
+    "address": "Lobanovskoho St, 21, Zaporizhzhia, Zaporiz'ka Oblast",
+    "fundation": 1938,
+    "dimensions": "105m x 68m",
+    "capacity": 11883,
+    "latitude": 47.85961965,
+    "longitude": 35.096701419893805
+},
+{
+    "team": "NK Veres Rivne",
+    "stadium": "Avanhard",
+    "city": "Rivne",
+    "address": "Peremohy Ave, 7а Lutsk Volyn Oblast",
+    "fundation": 1979,
+    "dimensions": "105m x 68m",
+    "capacity": 20000,
+    "latitude": 50.75396225,
+    "longitude": 25.337427305616814
+},
+{
+    "team": "SC Dnipro-1",
+    "stadium": "Dnipro Arena",
+    "city": "Dnipró",
+    "address": "Khersons'ka St, 7 Dnipro Dnipropetrovsk Oblast",
+    "fundation": 2008,
+    "dimensions": "105m x 68m",
+    "capacity": 31003,
+    "latitude": 48.46026225,
+    "longitude": 35.03237232457031
+}]

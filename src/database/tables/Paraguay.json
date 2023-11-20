@@ -1,0 +1,132 @@
+[{
+  "team": "Cerro Porteño",
+  "stadium": "Estadio General Pablo Rojas",
+  "city": "Asunción",
+  "address": "Av. Acuña De Figueroa, 1339",
+  "fundation": 1970,
+  "dimensions": "105m x 68m",
+  "capacity": 46100,
+  "latitude": -25.2999926,
+  "longitude": -57.637655818084326
+},
+{
+  "team": "Olimpia",
+  "stadium": "Estadio Manuel Ferreira",
+  "city": "Asunción",
+  "address": "Av. Mariscal López 1499 Y Pitiantuta",
+  "fundation": 1965,
+  "dimensions": "105m x 68m",
+  "capacity": 25820,
+  "latitude": -25.2916678,
+  "longitude": -57.60860905262753
+},
+{
+  "team": "Libertad",
+  "stadium": "Estadio Tigo La Huerta",
+  "city": "Asunción",
+  "address": "Av. General José Gervasio Artigas",
+  "fundation": 2005,
+  "dimensions": "105m x 68m",
+  "capacity": 12000,
+  "latitude": -25.277846,
+  "longitude": -57.611039
+},
+{
+  "team": "Nacional (Paraguay)",
+  "stadium": "Estadio Arsenio Erico",
+  "city": "Asunción",
+  "address": "Av. Pedro Juan Caballero",
+  "fundation": 1904,
+  "dimensions": "105m x 68m",
+  "capacity": 7500,
+  "latitude": -25.298306,
+  "longitude": -57.64001529141478
+},
+{
+  "team": "Guaraní",
+  "stadium": "Estadio Rogelio Livieres",
+  "city": "Asunción",
+  "address": "Av. Eusebio Ayala Y Félix Bogado",
+  "fundation": 1986,
+  "dimensions": "105m x 68m",
+  "capacity": 5380,
+  "latitude": -25.30350885,
+  "longitude": -57.61595726925796
+},
+    {
+  "team": "Sol De América",
+  "stadium": "Estadio Luis Alfonso Giagni",
+  "city": "Asunción",
+  "address": "Colombia Y Ecuador",
+  "fundation": 1909,
+  "dimensions": "105m x 68m",
+  "capacity": 11000,
+  "latitude": -25.367568,
+  "longitude": -57.584933
+},
+{
+  "team": "Sportivo Luqueño",
+  "stadium": "Estadio Feliciano Cáceres",
+  "city": "Luque",
+  "address": "Carlos Antonio López",
+  "fundation": 1999,
+  "dimensions": "105m x 68m",
+  "capacity": 26974,
+  "latitude": -25.27224055,
+  "longitude": -57.49311587038574
+},
+{
+  "team": "River Plate (Paraguay)",
+  "stadium": "Estadio Jardines Del Kelito",
+  "city": "Asunción",
+  "address": "Teodoro Mongelós 3800",
+  "fundation": 1911,
+  "dimensions": "105m x 70m",
+  "capacity": 6500,
+  "latitude": -25.3051282,
+  "longitude": -57.5981715
+},
+{
+  "team": "Tacuary",
+  "stadium": "Estadio Toribio Vargas",
+  "city": "Asunción",
+  "address": "Libertad Y Pitiantuta",
+  "fundation": 1960,
+  "dimensions": "90m x 68m",
+  "capacity": 3000,
+  "latitude": -25.283245,
+  "longitude": -57.606198
+},
+{
+  "team": "Presidente Hayes",
+  "stadium": "Estadio Coronel Félix Cabrera",
+  "city": "Asunción",
+  "address": "15 De Agosto Y Atenas",
+  "fundation": 1907,
+  "dimensions": "105m x 68m",
+  "capacity": 6000,
+  "latitude": -25.2962086,
+  "longitude": -57.647702
+},
+{
+  "team": "Atlántida",
+  "stadium": "Estadio Flaviano Díaz",
+  "city": "Asunción",
+  "address": "Av. Acuña De Figueroa Y Caballero",
+  "fundation": 1921,
+  "dimensions": "100m x 65m",
+  "capacity": 1000,
+  "latitude": -25.297015,
+  "longitude": -57.639012
+},
+{
+  "team": "Rubio Ñu",
+  "stadium": "Estadio La Arboleda",
+  "city": "Asunción",
+  "address": "Juana Pabla Carrillo De López",
+  "fundation": 1970,
+  "dimensions": "105m x 70m",
+  "capacity": 8000,
+  "latitude": -25.257544,
+  "longitude": -57.575113
+}]
